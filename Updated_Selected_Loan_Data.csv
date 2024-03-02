@@ -1,0 +1,701 @@
+loan_amnt,funded_amnt,term,interest_rate,installment,employment_length,home_ownership,annual_income,verification_status,loan_status,debt_to_income_ratio,Delinquency_last_2years,months_since_last_delinquent,total_payment,issue_month,last_payment_month,last_credit_score_pull_month,loan_purpose_category
+16000,16000,36 months,12.67,536.57,3,RENT,91200,Not Verified,Charged Off,10.13,1,15,107.33,AUG,AUG,SEP,Debt Consolidation
+7000,7000,36 months,15.62,244.79,6,MORTGAGE,37000,Source Verified,Paid,20.17,0,55,8812.35,NOV,FEB,APR,Debt Consolidation
+7000,7000,36 months,6.92,215.89,10,MORTGAGE,105000,Verified,Paid,8.54,2,6,7244.42,NOV,FEB,FEB,Home Improvement
+10000,6725,36 months,9.88,216.62,0,MORTGAGE,24000,Not Verified,Policy Paid,17.05,1,3,7702.2,OCT,JAN,APR,Debt Consolidation
+7000,7000,36 months,7.74,218.54,1,MORTGAGE,79000,Not Verified,Paid,3.17,0,35,7696.65,SEP,NOV,NOV,Vehicle Financing
+20000,20000,36 months,16.71,710.18,1,RENT,64000,Not Verified,Policy CO,20.83,0,0,4053.35,AUG,SEP,OCT,Debt Consolidation
+25000,25000,36 months,19.66,924.77,4,RENT,100000,Verified,Paid,12.73,0,45,32148.29,OCT,DEC,DEC,Debt Consolidation
+6000,6000,60 months,13.98,139.55,8,MORTGAGE,62000,Not Verified,Paid,10.43,2,11,6345.05,OCT,NOV,APR,Debt Consolidation
+6000,6000,60 months,18.62,154.4,1,RENT,130000,Source Verified,Charged Off,8.08,0,38,6437.3,NOV,FEB,FEB,Debt Consolidation
+6400,6400,36 months,7.51,199.11,10,MORTGAGE,72000,Not Verified,Paid,9.4,0,25,6895.21,OCT,DEC,APR,Debt Consolidation
+20000,20000,36 months,13.79,681.51,0,RENT,103000,Verified,Paid,19.76,0,68,19926.69,SEP,NOV,APR,Debt Consolidation
+10000,10000,60 months,14.91,237.43,5,RENT,35000,Verified,Paid,10.35,0,61,10724.06,NOV,NOV,APR,Debt Consolidation
+6000,6000,36 months,10.37,194.65,3,RENT,59000,Not Verified,Paid,13.91,1,23,7008.19,NOV,FEB,APR,Major Purchases
+3500,3500,36 months,11.86,116.02,10,RENT,48000,Source Verified,Paid,7.6,0,31,4181.68,OCT,JAN,FEB,Home Improvement
+3500,3500,36 months,6.03,106.53,10,MORTGAGE,83000,Verified,Paid,2.31,0,35,3834.86,NOV,MAR,FEB,Vehicle Financing
+10000,10000,36 months,12.87,336.34,1,MORTGAGE,44000,Not Verified,Paid,11.75,1,20,11933.56,SEP,DEC,APR,Debt Consolidation
+15000,15000,60 months,19.29,391.51,2,RENT,50000,Verified,Paid,18.96,0,27,21710.41,NOV,FEB,FEB,Credit Card Refinancing
+3500,3500,36 months,12.98,117.9,3,RENT,44000,Source Verified,Paid,15.22,0,35,3714.07,OCT,NOV,APR,Major Purchases
+10000,10000,36 months,13.11,337.45,10,MORTGAGE,57600,Not Verified,Paid,10.83,0,54,10640.8,OCT,NOV,NOV,Education
+3000,3000,36 months,20.3,111.95,2,RENT,43000,Not Verified,Paid,20.04,0,42,3796.84,NOV,JAN,APR,Moving & Relocation
+1200,1200,36 months,14.5,41.31,7,RENT,49825,Not Verified,Policy Paid,22.2,0,67,123.15,AUG,NOV,APR,Medical & Health
+4000,4000,36 months,13.92,136.55,3,RENT,22000,Not Verified,Paid,21.49,0,45,4874.87,SEP,DEC,JAN,Debt Consolidation
+12375,12375,36 months,10.37,401.46,2,MORTGAGE,39552,Verified,Charged Off,24.58,0,77,14002.09,NOV,JAN,APR,Debt Consolidation
+1500,1500,60 months,15.95,36.44,10,MORTGAGE,61300,Source Verified,Policy CO,14.88,0,77,894.99,OCT,DEC,JAN,Debt Consolidation
+10000,10000,36 months,13.48,339.25,3,RENT,64600,Not Verified,Paid,6.09,0,41,10916.6,OCT,NOV,APR,Debt Consolidation
+6000,6000,36 months,15.65,209.92,2,MORTGAGE,52000,Not Verified,Policy Paid,22.45,0,33,7439.42,SEP,DEC,APR,Debt Consolidation
+2875,2875,36 months,14.59,99.09,10,MORTGAGE,79000,Not Verified,Paid,11.92,2,8,3567.28,OCT,JAN,MAR,Credit Card Refinancing
+10000,10000,36 months,14.83,345.83,5,RENT,56000,Verified,Policy Paid,21.11,2,5,11312.04,OCT,DEC,JAN,Debt Consolidation
+3000,3000,36 months,17.49,107.7,10,MORTGAGE,70000,Not Verified,Paid,10.37,0,38,3607.15,NOV,JAN,MAR,Vacation & Leisure
+4000,4000,36 months,7.88,125.13,4,MORTGAGE,115000,Verified,Paid,12.3,0,42,4244.82,OCT,NOV,APR,Debt Consolidation
+13250,13250,36 months,6.62,406.83,8,MORTGAGE,69000,Verified,Paid,28.64,0,70,14148.48,NOV,JAN,APR,Debt Consolidation
+15000,15000,36 months,6.91,462.54,7,RENT,86000,Not Verified,Paid,14.75,0,65,13629.57,OCT,JAN,JAN,Credit Card Refinancing
+6000,6000,36 months,16.49,212.4,7,MORTGAGE,51200,Source Verified,Paid,9.89,0,57,7646.25,NOV,FEB,MAR,Medical & Health
+35000,35000,60 months,18.25,893.54,2,MORTGAGE,166300,Verified,Paid,5.84,1,5,52807.93,NOV,APR,APR,Debt Consolidation
+10000,10000,36 months,12.61,335.07,2,RENT,52000,Not Verified,Paid,12.02,0,0,4948.85,AUG,SEP,SEP,Debt Consolidation
+2500,2500,36 months,11.36,82.28,6,OWN,30000,Not Verified,Paid,15.64,0,43,2577.62,OCT,OCT,OCT,Credit Card Refinancing
+12800,12800,36 months,10.75,417.55,5,RENT,85000,Not Verified,Paid,8.75,1,12,14810.46,OCT,DEC,DEC,Debt Consolidation
+12000,12000,36 months,13.24,405.72,1,RENT,27000,Not Verified,Paid,11.96,0,0,1263.76,AUG,NOV,NOV,Debt Consolidation
+5000,5000,36 months,12.99,168.45,4,MORTGAGE,106000,Source Verified,Paid,11.42,1,16,5735.48,NOV,FEB,APR,Debt Consolidation
+8000,8000,36 months,7.9,250.33,0,RENT,34000,Verified,Paid,16.06,0,32,8655.72,NOV,JAN,JAN,Business & Entrepreneurship
+6000,6000,36 months,10.59,195.27,10,MORTGAGE,68000,Not Verified,Paid,14.66,0,29,6346.94,NOV,DEC,APR,Major Purchases
+15000,15000,36 months,8.49,473.45,3,MORTGAGE,70000,Source Verified,Paid,6.6,1,3,17015.53,NOV,FEB,APR,Debt Consolidation
+4000,4000,36 months,14.61,137.91,3,RENT,50000,Not Verified,Paid,10.01,0,38,4964.33,SEP,DEC,DEC,Debt Consolidation
+2000,2000,36 months,7.29,62.02,6,RENT,101424,Source Verified,Paid,11.35,0,45,2170.81,NOV,DEC,FEB,Major Purchases
+7500,7500,36 months,10.99,245.51,7,MORTGAGE,62000,Not Verified,Paid,6.12,2,16,8838.14,NOV,FEB,APR,Credit Card Refinancing
+12000,12000,60 months,13.49,276.06,5,RENT,120000,Not Verified,Current,9.36,1,9,15721.21,NOV,APR,APR,Business & Entrepreneurship
+9200,9200,60 months,16.4,225.69,3,RENT,41004,Not Verified,Paid,24.38,0,32,13541.04,NOV,APR,APR,Debt Consolidation
+5400,5400,36 months,15.21,187.75,10,RENT,64617,Source Verified,Paid,12.54,0,57,6759.41,OCT,JAN,JAN,Medical & Health
+8500,8500,36 months,15.58,297.08,10,MORTGAGE,85000,Source Verified,Paid,22.98,0,27,10694.99,OCT,JAN,JAN,Debt Consolidation
+6000,6000,60 months,13.49,138.03,10,MORTGAGE,73248,Source Verified,Paid,5.24,0,48,7952.16,NOV,FEB,MAR,Home Improvement
+16750,16750,36 months,15.65,586.02,10,MORTGAGE,90000,Not Verified,Policy Paid,22.09,1,20,20419.62,OCT,JAN,APR,Debt Consolidation
+25000,25000,36 months,15.65,874.66,2,RENT,100000,Verified,Paid,14.02,0,72,29710.15,SEP,DEC,DEC,Debt Consolidation
+10000,10000,36 months,14.26,343.06,1,RENT,130000,Verified,Paid,7.5,2,10,10433.52,SEP,OCT,APR,Credit Card Refinancing
+8000,8000,36 months,16.89,284.79,4,MORTGAGE,82000,Verified,Paid,18.12,2,3,10233.31,NOV,FEB,APR,Home Improvement
+4000,4000,36 months,9.63,128.38,0,RENT,30000,Source Verified,Paid,23,0,45,4556.92,NOV,JAN,APR,Debt Consolidation
+13000,13000,36 months,11.48,428.59,10,MORTGAGE,75000,Not Verified,Policy Paid,15.44,0,73,13458.39,SEP,OCT,OCT,Debt Consolidation
+12000,12000,36 months,13.85,409.25,10,MORTGAGE,52000,Not Verified,Paid,21.42,1,20,14636.62,OCT,DEC,APR,Debt Consolidation
+20000,20000,36 months,14.54,688.81,0,MORTGAGE,83000,Verified,Paid,12.67,0,32,24797.15,NOV,FEB,FEB,Debt Consolidation
+11000,11000,36 months,11.03,360.29,0,OWN,20400,Not Verified,Charged Off,6.82,0,0,585.9,AUG,SEP,APR,Debt Consolidation
+28000,28000,60 months,18.64,720.81,0,RENT,129000,Verified,Paid,23.15,0,35,39541.94,NOV,FEB,MAR,Credit Card Refinancing
+6000,6000,60 months,10.75,129.71,5,RENT,57600,Not Verified,Paid,21.98,0,79,7634.11,OCT,FEB,APR,Vehicle Financing
+9900,9900,36 months,8,310.24,10,MORTGAGE,101400,Not Verified,Paid,3.19,0,0,5219.29,AUG,NOV,APR,Credit Card Refinancing
+1000,1000,36 months,7.29,31.01,0,RENT,48000,Not Verified,Paid,10.22,0,42,1116.35,NOV,FEB,MAR,Debt Consolidation
+7000,7000,60 months,18.25,178.71,7,RENT,72000,Verified,Paid,11.98,4,23,10722.35,NOV,APR,APR,Major Purchases
+5000,5000,36 months,12.49,167.24,1,MORTGAGE,180000,Not Verified,Policy Paid,21.35,0,35,1324.51,JUL,OCT,JAN,Credit Card Refinancing
+5000,5000,36 months,10.75,163.11,2,MORTGAGE,90000,Source Verified,Paid,3.6,0,74,5871.94,OCT,JAN,JAN,Major Purchases
+7000,7000,36 months,12.99,235.83,1,MORTGAGE,55000,Source Verified,Charged Off,22.06,1,18,5423.13,NOV,JAN,APR,Business & Entrepreneurship
+17200,17200,36 months,17.49,617.43,6,RENT,90000,Verified,Paid,8.53,0,80,22227.46,NOV,FEB,APR,Debt Consolidation
+7500,7500,60 months,12.61,169.16,3,RENT,71500,Source Verified,Paid,18.73,0,48,10115.31,OCT,MAR,APR,Debt Consolidation
+7500,7500,36 months,13.22,253.51,5,MORTGAGE,44500,Not Verified,Policy CO,22.52,0,54,1071.12,OCT,OCT,OCT,Debt Consolidation
+24750,24750,36 months,14.22,848.54,6,RENT,49500,Verified,Paid,10.88,0,72,30378.16,OCT,DEC,DEC,Debt Consolidation
+13500,13500,60 months,11.12,294.34,5,MORTGAGE,68000,Source Verified,Paid,13.18,0,78,16891.76,OCT,FEB,APR,Debt Consolidation
+9000,9000,60 months,12.98,204.69,9,RENT,51072,Not Verified,Charged Off,10.57,0,54,2652.71,OCT,NOV,APR,Major Purchases
+2200,2200,36 months,13.49,74.65,5,OWN,80000,Verified,Paid,3.27,0,31,2225.22,NOV,NOV,NOV,Debt Consolidation
+7000,7000,36 months,7.14,216.58,0,MORTGAGE,61000,Verified,Charged Off,22.58,0,67,5602.77,OCT,DEC,JAN,Medical & Health
+8000,8000,36 months,11.63,264.31,0,RENT,22000,Not Verified,Paid,17.13,1,6,9514.86,NOV,FEB,FEB,Business & Entrepreneurship
+20000,20000,36 months,6.17,609.99,10,OWN,60000,Verified,Paid,5.06,0,62,21252.38,OCT,JAN,JAN,Business & Entrepreneurship
+9600,9600,36 months,13.22,324.49,0,MORTGAGE,100000,Not Verified,Paid,11.44,4,7,10814.08,SEP,DEC,JAN,Medical & Health
+5300,5300,36 months,17.99,191.59,2,RENT,36000,Source Verified,Paid,16.23,0,26,6404.05,NOV,DEC,MAR,Debt Consolidation
+20000,20000,36 months,13.79,681.51,3,MORTGAGE,138996,Verified,Paid,7.12,0,43,7708.45,SEP,NOV,NOV,Medical & Health
+25000,16925,60 months,13.98,393.64,5,RENT,60000,Source Verified,Charged Off,13.42,0,47,18054.03,OCT,FEB,APR,Credit Card Refinancing
+6000,6000,36 months,14.96,207.88,8,MORTGAGE,70000,Source Verified,Policy Paid,12.39,0,69,6728.15,OCT,NOV,JAN,Home Improvement
+28000,28000,60 months,18.39,716.97,10,MORTGAGE,105996,Verified,Paid,17.37,0,80,13416.58,NOV,DEC,APR,Debt Consolidation
+2100,2100,36 months,12.49,70.25,0,RENT,12500,Not Verified,Charged Off,14.4,0,0,1211.82,JUL,AUG,APR,Debt Consolidation
+4800,4800,60 months,16.82,118.83,8,RENT,48100,Not Verified,Paid,14.84,0,31,7129.64,OCT,MAR,MAR,Home Improvement
+21725,21725,60 months,20.89,586.4,10,OWN,40000,Verified,Charged Off,15.12,3,13,7265.56,NOV,DEC,APR,Debt Consolidation
+5000,5000,36 months,14.79,172.82,1,RENT,36000,Verified,Paid,9.67,2,11,5374.99,NOV,DEC,FEB,Vehicle Financing
+3000,3000,36 months,12.53,100.4,2,RENT,30000,Not Verified,Paid,17.8,0,31,3532.8,SEP,DEC,FEB,Medical & Health
+5600,5600,36 months,10.74,182.65,2,MORTGAGE,110000,Source Verified,Paid,12.01,0,68,6283.28,NOV,DEC,APR,Major Purchases
+5000,5000,36 months,14.11,171.15,8,RENT,42000,Not Verified,Policy Paid,13.71,1,8,5435.7,SEP,OCT,OCT,Medical & Health
+8000,8000,36 months,10.65,260.59,2,RENT,55000,Source Verified,Paid,11.56,0,29,8925.98,NOV,JAN,JAN,Debt Consolidation
+11300,11300,36 months,12.17,376.24,8,RENT,33600,Not Verified,Paid,23.96,0,0,1754.47,JUL,OCT,OCT,Debt Consolidation
+3000,3000,36 months,12.53,100.4,3,MORTGAGE,120000,Not Verified,Policy Paid,3.48,0,38,3228.14,SEP,OCT,OCT,Home Improvement
+13250,13250,60 months,16.49,325.68,1,RENT,38400,Not Verified,Paid,23.66,1,19,16442.28,NOV,APR,APR,Debt Consolidation
+25000,25000,36 months,12.04,830.84,4,RENT,105000,Not Verified,Policy CO,3.73,0,0,234.5,AUG,OCT,OCT,Business & Entrepreneurship
+24000,24000,60 months,20.89,647.8,10,MORTGAGE,115000,Source Verified,Charged Off,4.01,1,10,4030.71,NOV,DEC,DEC,Debt Consolidation
+4500,4500,36 months,13.79,153.34,1,MORTGAGE,59012,Not Verified,Policy Paid,18.83,0,40,5489.56,SEP,DEC,DEC,Debt Consolidation
+11000,11000,36 months,10.65,358.31,10,MORTGAGE,82500,Verified,Paid,15.19,0,45,11854.77,NOV,JAN,FEB,Debt Consolidation
+3000,3000,36 months,11.49,98.92,10,RENT,47004,Source Verified,Paid,3.57,0,67,3501.57,OCT,JAN,APR,Debt Consolidation
+12000,12000,60 months,19.29,313.21,3,MORTGAGE,40000,Not Verified,Charged Off,12.39,0,52,3438.57,NOV,DEC,MAR,Debt Consolidation
+7500,7500,60 months,10.36,160.69,3,RENT,50000,Verified,Paid,18.36,0,40,7659.32,OCT,NOV,DEC,Debt Consolidation
+25000,25000,36 months,14.11,855.73,4,RENT,260735,Verified,Paid,7.82,0,45,19587.01,SEP,DEC,FEB,Business & Entrepreneurship
+5600,5600,36 months,11.71,185.23,8,MORTGAGE,39000,Not Verified,Charged Off,19.54,2,14,2089.65,NOV,DEC,JAN,Debt Consolidation
+4800,4800,36 months,10.36,155.7,0,RENT,40000,Verified,Paid,14.67,0,43,5548.85,OCT,JAN,JAN,Credit Card Refinancing
+6000,6000,60 months,10.99,130.43,5,MORTGAGE,70000,Not Verified,Paid,19.69,0,29,7428.42,OCT,FEB,APR,Medical & Health
+15000,15000,36 months,12.73,503.5,3,RENT,122000,Verified,Paid,24.44,0,44,18126.03,OCT,JAN,JAN,Business & Entrepreneurship
+22750,22750,60 months,12.69,514.03,10,MORTGAGE,43000,Verified,Charged Off,25.26,1,16,10241.21,NOV,JAN,JAN,Debt Consolidation
+25000,25000,60 months,20.25,665.83,7,MORTGAGE,81996,Verified,Paid,24.19,1,5,38139.62,NOV,MAR,MAR,Debt Consolidation
+10000,10000,60 months,17.56,251.55,10,MORTGAGE,127000,Source Verified,Paid,12.59,0,30,13809.24,OCT,JAN,FEB,Home Improvement
+6000,6000,36 months,7.49,186.61,10,MORTGAGE,78500,Not Verified,Paid,14.97,0,40,6717.95,NOV,FEB,APR,Medical & Health
+8000,8000,36 months,13.23,270.44,3,MORTGAGE,73000,Source Verified,Paid,1.05,0,53,9741.98,OCT,JAN,JAN,Debt Consolidation
+20000,20000,60 months,20.25,532.67,10,MORTGAGE,63000,Verified,Paid,20.7,1,19,30966.22,NOV,MAR,MAR,Debt Consolidation
+2400,2400,36 months,10.74,78.28,10,MORTGAGE,91000,Source Verified,Paid,21.3,0,40,2803.86,NOV,JAN,JAN,Credit Card Refinancing
+7000,7000,60 months,13.61,161.47,10,MORTGAGE,50000,Source Verified,Paid,2.45,2,15,9472.75,OCT,FEB,FEB,Medical & Health
+10000,10000,36 months,14.5,344.21,10,MORTGAGE,36000,Not Verified,Policy Paid,6.13,0,71,8205.26,AUG,OCT,FEB,Debt Consolidation
+2500,2500,36 months,13.11,84.37,4,RENT,21996,Source Verified,Charged Off,8.07,0,72,2973.8,OCT,DEC,APR,Medical & Health
+4500,4500,36 months,8.49,142.04,0,MORTGAGE,55000,Source Verified,Paid,6.04,1,23,5098.34,NOV,FEB,APR,Credit Card Refinancing
+12500,12500,36 months,13.79,425.95,10,OTHER,70000,Verified,Policy Paid,16.73,2,4,14437.79,SEP,DEC,DEC,Business & Entrepreneurship
+8000,8000,36 months,7.49,248.82,10,MORTGAGE,112992,Not Verified,Paid,18.25,0,40,8957.24,NOV,FEB,FEB,Vehicle Financing
+8000,8000,36 months,6.99,246.99,8,MORTGAGE,33600,Source Verified,Paid,12.32,0,45,8046.91,NOV,NOV,APR,Credit Card Refinancing
+20000,20000,60 months,17.27,499.96,10,RENT,56508,Source Verified,Charged Off,23.08,1,1,19014.33,NOV,MAR,MAR,Credit Card Refinancing
+4150,4150,36 months,17.58,149.16,3,MORTGAGE,45000,Source Verified,Paid,0.67,0,70,4328.5,NOV,DEC,APR,Debt Consolidation
+12000,12000,60 months,10.37,257.16,9,RENT,48000,Not Verified,Paid,6.33,0,48,15369.26,NOV,APR,APR,Debt Consolidation
+15000,15000,36 months,13.43,508.53,0,MORTGAGE,55000,Not Verified,Policy CO,19.44,3,2,180.89,JUL,SEP,APR,Business & Entrepreneurship
+8000,8000,60 months,14.17,186.86,4,MORTGAGE,60000,Not Verified,Paid,12.14,0,58,11210.89,NOV,APR,APR,Major Purchases
+10000,10000,60 months,14.46,235.08,6,RENT,46789,Verified,Policy CO,22.75,0,33,2286.48,OCT,NOV,NOV,Vacation & Leisure
+1000,1000,36 months,14.27,34.31,5,MORTGAGE,82000,Source Verified,Paid,12.26,0,31,1011.96,NOV,NOV,NOV,Medical & Health
+15000,15000,36 months,9.91,483.38,10,MORTGAGE,95000,Verified,Paid,20.88,1,9,17401.44,NOV,FEB,APR,Debt Consolidation
+2500,2500,36 months,10.78,81.59,0,MORTGAGE,107000,Not Verified,Paid,16.37,0,28,1653.06,AUG,OCT,NOV,Credit Card Refinancing
+10000,10000,36 months,7.14,309.4,10,MORTGAGE,80000,Not Verified,Paid,15.54,0,33,10984.39,OCT,JAN,APR,Debt Consolidation
+18000,18000,36 months,14.46,619.23,0,MORTGAGE,62000,Verified,Paid,23.85,0,36,21841.05,OCT,JAN,APR,Debt Consolidation
+12000,12000,36 months,13.24,405.72,7,RENT,44160,Not Verified,Paid,14.4,0,0,8145.71,AUG,NOV,NOV,Medical & Health
+6250,6250,36 months,6.91,192.73,10,RENT,26000,Not Verified,Paid,23.68,0,71,5977.56,OCT,DEC,APR,Debt Consolidation
+5700,5700,60 months,19.03,147.96,2,RENT,40000,Not Verified,Paid,12.27,2,6,6401.22,NOV,DEC,DEC,Medical & Health
+6700,6700,36 months,11.49,220.91,10,MORTGAGE,46000,Verified,Paid,6.63,0,61,7952.65,NOV,FEB,APR,Debt Consolidation
+29900,24475,60 months,13.49,563.04,4,MORTGAGE,93996,Verified,Paid,27.92,0,35,29754.97,NOV,APR,APR,Debt Consolidation
+15000,15000,36 months,13.24,507.15,10,OWN,46776,Not Verified,Paid,10.03,0,0,5060.65,AUG,OCT,OCT,Debt Consolidation
+10000,10000,60 months,19.04,259.63,0,RENT,47000,Verified,Charged Off,19.33,0,41,4627.9,OCT,DEC,DEC,Debt Consolidation
+8000,8000,36 months,10.46,259.87,10,RENT,120000,Not Verified,Charged Off,11.28,0,0,1314.27,AUG,SEP,SEP,Medical & Health
+14400,14400,36 months,15.96,505.98,5,MORTGAGE,78000,Not Verified,Policy Paid,13.78,2,14,4464.78,JUL,OCT,OCT,Debt Consolidation
+9400,9400,36 months,13.3,318.09,9,MORTGAGE,50000,Not Verified,Paid,17.04,0,0,2122.53,AUG,NOV,NOV,Credit Card Refinancing
+4200,4200,60 months,16.32,102.86,6,MORTGAGE,37000,Source Verified,Paid,5.61,1,12,5125.71,OCT,DEC,MAR,Home Improvement
+8200,8200,36 months,12.21,273.19,4,RENT,34000,Source Verified,Paid,8.72,0,63,9180.32,SEP,DEC,DEC,Business & Entrepreneurship
+5000,5000,36 months,10.91,163.48,0,RENT,42500,Not Verified,Policy Paid,1.21,0,0,2648.29,JUL,OCT,OCT,Credit Card Refinancing
+7000,7000,36 months,11.66,231.37,3,MORTGAGE,44000,Not Verified,Paid,20.54,1,9,523.85,AUG,NOV,NOV,Medical & Health
+10000,10000,36 months,14.61,344.76,4,OWN,30000,Verified,Paid,20.2,0,72,12411.64,OCT,JAN,MAR,Debt Consolidation
+2725,2725,36 months,11.66,90.07,2,RENT,52000,Not Verified,Paid,14.45,0,48,2542,AUG,AUG,AUG,Debt Consolidation
+12800,12800,36 months,11.49,422.04,10,MORTGAGE,67422,Verified,Paid,19.4,0,38,14896.36,NOV,FEB,FEB,Debt Consolidation
+15600,15600,60 months,12.68,352.4,10,MORTGAGE,120000,Verified,Paid,16.88,0,72,21076.05,NOV,APR,APR,Credit Card Refinancing
+24000,24000,60 months,14.17,560.56,8,MORTGAGE,53000,Verified,Paid,22.42,0,48,23695.23,NOV,NOV,MAR,Debt Consolidation
+5000,5000,36 months,9.99,161.32,4,RENT,47000,Source Verified,Paid,2.55,0,48,5807.21,NOV,FEB,APR,Debt Consolidation
+6000,6000,36 months,16.4,212.13,1,RENT,25000,Source Verified,Paid,7.3,1,7,7368.66,NOV,JAN,MAR,Moving & Relocation
+10000,10000,36 months,13.16,337.71,0,RENT,85000,Verified,Paid,18.31,0,46,8948.99,SEP,DEC,DEC,Debt Consolidation
+2500,2500,36 months,15.62,87.43,8,RENT,41500,Not Verified,Paid,14.69,0,42,3147.22,NOV,FEB,MAR,Medical & Health
+5000,5000,36 months,8.94,158.86,6,RENT,54996,Not Verified,Paid,20.14,0,70,5598.2,SEP,DEC,APR,Medical & Health
+12000,12000,36 months,13.11,404.97,4,MORTGAGE,118000,Source Verified,Paid,6.85,0,26,14428.02,OCT,DEC,JAN,Debt Consolidation
+19000,19000,36 months,10.99,621.95,6,OWN,49000,Source Verified,Paid,22.36,0,55,21913.15,NOV,JAN,JAN,Debt Consolidation
+16000,16000,60 months,14.79,378.88,5,MORTGAGE,87240,Source Verified,Charged Off,10.99,0,41,16043.5,NOV,FEB,APR,Business & Entrepreneurship
+24000,24000,60 months,14.17,560.56,10,MORTGAGE,65000,Verified,Paid,11.34,2,20,33083.52,NOV,MAR,APR,Debt Consolidation
+15000,15000,36 months,17.9,541.5,10,RENT,69000,Not Verified,Policy CO,17.17,0,59,2251.77,SEP,SEP,MAR,Debt Consolidation
+10000,10000,36 months,10.99,327.34,10,MORTGAGE,28000,Not Verified,Paid,15.6,0,24,11585.82,NOV,JAN,MAR,Credit Card Refinancing
+17850,17850,36 months,11.99,592.8,1,MORTGAGE,100280,Source Verified,Paid,16.23,0,50,21340.38,NOV,FEB,FEB,Debt Consolidation
+6000,6000,36 months,10.65,195.44,10,RENT,69500,Not Verified,Paid,19.18,0,24,6756.17,NOV,JAN,FEB,Debt Consolidation
+8400,8400,36 months,11.86,278.44,2,MORTGAGE,65000,Verified,Paid,23.46,0,81,10033.12,OCT,JAN,MAR,Debt Consolidation
+16000,16000,36 months,15.7,560.18,9,RENT,52000,Verified,Paid,13.71,0,33,20194.86,OCT,JAN,JAN,Credit Card Refinancing
+8000,8000,36 months,12.99,269.52,0,RENT,48000,Verified,Paid,15.43,1,3,8776.73,NOV,DEC,MAR,Debt Consolidation
+3000,3000,36 months,15.62,104.91,4,RENT,42000,Source Verified,Charged Off,1.49,3,13,134.69,NOV,,FEB,Business & Entrepreneurship
+15000,15000,60 months,18.99,389.03,7,RENT,58000,Verified,Paid,12.29,1,16,19394.21,NOV,DEC,MAR,Home Improvement
+6000,6000,36 months,6.03,182.62,0,OWN,26232,Not Verified,Paid,27.95,0,53,6589.06,NOV,FEB,FEB,Medical & Health
+1000,1000,36 months,14.42,34.39,7,MORTGAGE,50000,Not Verified,Paid,7.39,0,57,1237.71,AUG,NOV,APR,Debt Consolidation
+5500,5500,36 months,16.07,193.57,10,MORTGAGE,47245,Not Verified,Policy Paid,19.35,0,35,6714.5,OCT,DEC,DEC,Medical & Health
+20000,20000,60 months,17.99,507.76,10,MORTGAGE,61000,Verified,Current,20.71,0,42,29376.93,NOV,APR,APR,Home Improvement
+15000,15000,36 months,13.49,508.96,0,RENT,50000,Source Verified,Paid,13.9,1,17,15931.14,NOV,DEC,DEC,Medical & Health
+6000,6000,36 months,12.17,199.78,10,MORTGAGE,120000,Not Verified,Paid,6.81,0,24,740,AUG,OCT,OCT,Medical & Health
+12000,12000,36 months,13.99,410.08,8,RENT,72000,Source Verified,Paid,10.25,1,11,14762.58,NOV,FEB,FEB,Debt Consolidation
+1500,1500,36 months,13.98,51.26,0,MORTGAGE,14400,Source Verified,Paid,3.85,1,18,1844.63,OCT,JAN,JAN,Debt Consolidation
+3250,3250,36 months,11.49,107.16,6,MORTGAGE,67200,Not Verified,Paid,16.93,0,55,3857.69,OCT,JAN,JAN,Major Purchases
+4000,4000,36 months,11.89,132.66,2,RENT,54000,Not Verified,Paid,12.91,1,8,4787.57,SEP,DEC,DEC,Moving & Relocation
+13250,13250,36 months,16.89,471.68,2,OWN,35000,Verified,Paid,18.14,0,25,14422.87,NOV,DEC,DEC,Medical & Health
+8400,8400,36 months,14.96,291.02,0,RENT,32758,Not Verified,Paid,13.92,1,10,10342.87,SEP,DEC,DEC,Debt Consolidation
+4800,4800,36 months,6.17,146.4,8,OWN,82729.68,Source Verified,Paid,14.98,1,7,5128.51,OCT,DEC,DEC,Debt Consolidation
+21600,21600,60 months,17.58,543.58,10,MORTGAGE,82000,Verified,Charged Off,9.75,0,34,18081.13,NOV,FEB,FEB,Debt Consolidation
+10000,10000,36 months,8.49,315.63,5,RENT,80000,Source Verified,Paid,20.27,0,55,11046.45,NOV,FEB,MAR,Debt Consolidation
+12000,12000,36 months,10.59,390.54,1,MORTGAGE,30000,Not Verified,Paid,19.84,0,0,760.49,JUL,OCT,APR,Debt Consolidation
+6000,6000,36 months,9.99,193.58,0,MORTGAGE,28440,Verified,Paid,8.57,1,21,6939.63,NOV,FEB,FEB,Credit Card Refinancing
+10000,10000,36 months,15.68,350.02,2,MORTGAGE,57000,Verified,Charged Off,7.62,0,47,2806.94,SEP,SEP,OCT,Home Improvement
+10000,10000,60 months,18.3,255.57,10,OWN,48000,Not Verified,Paid,19.23,1,8,15295.78,OCT,MAR,MAR,Debt Consolidation
+1500,1500,36 months,12.84,50.43,1,MORTGAGE,90000,Verified,Paid,17.32,0,63,1518.87,SEP,NOV,FEB,Education
+2400,2400,36 months,13.55,81.51,0,RENT,26880,Not Verified,Policy Paid,7.98,0,46,2108.11,AUG,SEP,NOV,Debt Consolidation
+12000,12000,36 months,11.48,395.63,0,MORTGAGE,120000,Not Verified,Paid,1.01,0,41,14005.54,SEP,DEC,DEC,Medical & Health
+5000,5000,36 months,10.65,162.87,1,OWN,44475,Not Verified,Paid,17.11,0,25,5482.05,NOV,JAN,JAN,Credit Card Refinancing
+16000,16000,36 months,14.5,550.74,10,MORTGAGE,95827,Verified,Paid,22.27,0,61,17379.43,AUG,NOV,APR,Debt Consolidation
+5000,5000,36 months,12.73,167.84,0,RENT,42000,Not Verified,Policy Paid,5.86,0,47,5053.27,OCT,OCT,JAN,Home Improvement
+10000,10000,36 months,10.74,326.16,5,MORTGAGE,75000,Source Verified,Paid,13.06,0,47,11741.65,NOV,FEB,APR,Credit Card Refinancing
+15000,15000,36 months,7.49,466.53,5,MORTGAGE,90000,Not Verified,Paid,12.92,0,46,16794.85,NOV,FEB,MAR,Home Improvement
+1000,1000,36 months,10.38,32.45,2,MORTGAGE,200000,Source Verified,Paid,9.58,0,37,1168.17,OCT,JAN,JAN,Credit Card Refinancing
+6500,6500,36 months,13.79,221.5,10,MORTGAGE,38004,Source Verified,Paid,23.37,1,23,7948.93,SEP,DEC,DEC,Medical & Health
+600,600,36 months,13.24,20.29,3,RENT,14000,Not Verified,Policy Paid,22.03,0,0,638.97,AUG,NOV,MAR,Medical & Health
+12000,12000,36 months,13.49,407.17,10,MORTGAGE,40000,Verified,Paid,16.2,0,72,13686.19,NOV,JAN,JAN,Debt Consolidation
+7000,7000,36 months,12.98,235.8,4,RENT,97000,Verified,Paid,17.27,2,21,8488.9,NOV,FEB,APR,Credit Card Refinancing
+20000,20000,36 months,11.54,659.91,10,MORTGAGE,616000,Not Verified,Policy CO,2.33,0,45,450.33,JUL,SEP,APR,Business & Entrepreneurship
+15000,15000,36 months,13.43,508.53,10,RENT,75000,Source Verified,Charged Off,8.64,0,37,6609.61,NOV,DEC,APR,Debt Consolidation
+15000,15000,36 months,16.77,533.08,3,MORTGAGE,133000,Verified,Paid,1.38,1,4,18027.62,NOV,JAN,JAN,Credit Card Refinancing
+25000,25000,36 months,9.64,802.47,2,RENT,48000,Not Verified,Paid,9.78,0,0,639.12,JUL,AUG,JAN,Debt Consolidation
+3000,3000,36 months,15.62,104.91,5,RENT,60000,Verified,Paid,20.24,0,26,3776.72,NOV,FEB,APR,Medical & Health
+16000,16000,36 months,16.4,565.68,4,RENT,110000,Verified,Paid,14.97,1,9,17701.25,NOV,DEC,DEC,Debt Consolidation
+18000,18000,36 months,14.7,621.34,1,MORTGAGE,120000,Not Verified,Policy Paid,26.25,0,0,1818.67,JUL,AUG,AUG,Debt Consolidation
+12000,12000,36 months,12.68,402.49,4,MORTGAGE,79872,Source Verified,Paid,9.5,0,60,14370.7,NOV,JAN,APR,Debt Consolidation
+21000,21000,36 months,10.59,683.45,10,MORTGAGE,90000,Not Verified,Paid,8.91,1,15,22506.38,NOV,DEC,APR,Credit Card Refinancing
+3000,3000,36 months,10.71,97.81,1,RENT,27000,Not Verified,Policy Paid,18.89,0,80,2417.44,AUG,NOV,NOV,Debt Consolidation
+16000,16000,36 months,14.54,551.05,9,MORTGAGE,85000,Verified,Paid,7.04,1,9,18323.28,NOV,JAN,JAN,Debt Consolidation
+24000,24000,36 months,7.49,746.44,3,MORTGAGE,200000,Verified,Paid,5.14,0,34,25666.95,NOV,JAN,JAN,Home Improvement
+15800,15800,60 months,6.91,312.19,1,MORTGAGE,49500,Source Verified,Paid,24.7,1,3,14873,OCT,NOV,JAN,Debt Consolidation
+8000,8000,36 months,10.78,261.08,9,RENT,23000,Not Verified,Policy Paid,7.83,0,66,4690.09,AUG,NOV,FEB,Debt Consolidation
+12175,12175,60 months,12.99,276.96,6,MORTGAGE,27600,Verified,Charged Off,9.35,0,40,4311.69,NOV,DEC,APR,Medical & Health
+14400,10075,60 months,11.49,221.53,1,OWN,85000,Verified,Paid,19.2,0,56,12656.62,OCT,JAN,JAN,Major Purchases
+12800,12800,36 months,8.9,406.45,8,RENT,38500,Not Verified,Paid,12.59,0,40,14317.48,NOV,FEB,FEB,Debt Consolidation
+8000,8000,36 months,10.71,260.82,2,RENT,215000,Not Verified,Paid,17.66,0,0,3560.36,AUG,NOV,APR,Medical & Health
+7000,7000,60 months,13.8,162.16,10,RENT,65000,Verified,Paid,2.66,0,28,7689.77,NOV,NOV,FEB,Debt Consolidation
+25000,25000,36 months,14.96,866.13,10,MORTGAGE,153000,Verified,Charged Off,16.55,1,14,27968.6,SEP,OCT,APR,Debt Consolidation
+3000,3000,36 months,15.95,105.4,2,MORTGAGE,140000,Not Verified,Paid,8.41,0,49,3734.74,OCT,JAN,JAN,Credit Card Refinancing
+16000,16000,36 months,16.77,568.62,4,RENT,50000,Source Verified,Paid,12.96,0,57,20470.82,NOV,FEB,FEB,Debt Consolidation
+12000,12000,36 months,14.82,414.93,3,MORTGAGE,38000,Not Verified,Policy Paid,9.76,0,24,11856.52,AUG,NOV,NOV,Debt Consolidation
+16750,16750,36 months,13.98,572.32,10,RENT,60000,Source Verified,Charged Off,21.4,0,37,9482.78,OCT,DEC,DEC,Debt Consolidation
+3000,3000,36 months,11.11,98.38,3,MORTGAGE,75000,Not Verified,Paid,17.04,0,67,3156.72,NOV,NOV,NOV,Vehicle Financing
+3600,3600,36 months,7.9,112.65,4,RENT,60000,Verified,Paid,4.4,0,30,4055.2,NOV,FEB,FEB,Medical & Health
+30000,18975,60 months,19.39,496.31,1,RENT,60000,Verified,Charged Off,18.36,0,74,26765.53,NOV,APR,APR,Debt Consolidation
+12000,12000,36 months,6.03,365.23,0,RENT,90000,Source Verified,Paid,5.52,0,47,12998.17,NOV,FEB,MAR,Vehicle Financing
+2500,2500,36 months,13.23,84.52,3,RENT,26400,Source Verified,Paid,5.68,1,8,3036.15,OCT,JAN,JAN,Debt Consolidation
+29000,29000,36 months,7.51,902.22,1,MORTGAGE,67000,Verified,Paid,5.03,0,50,31650.13,NOV,JAN,FEB,Home Improvement
+1200,1200,36 months,11.54,39.6,0,RENT,20000,Not Verified,Paid,2.04,0,24,0,JUL,OCT,OCT,Credit Card Refinancing
+2300,2300,36 months,13.17,77.69,10,RENT,37152,Verified,Paid,2.26,0,46,643.5,AUG,NOV,APR,Moving & Relocation
+5000,5000,60 months,21.36,136.29,6,RENT,49000,Source Verified,Paid,16.02,0,36,8176.48,NOV,APR,APR,Debt Consolidation
+2000,2000,36 months,10.39,64.91,8,RENT,22004,Not Verified,Paid,8.13,1,22,381.29,AUG,NOV,NOV,Medical & Health
+3500,3500,36 months,17.27,125.26,2,RENT,21600,Source Verified,Paid,15.89,1,20,4168.07,NOV,JAN,APR,Credit Card Refinancing
+10000,10000,36 months,11.71,330.76,2,RENT,40000,Not Verified,Paid,22.26,0,70,11819.56,NOV,FEB,APR,Debt Consolidation
+8000,8000,60 months,9.99,169.94,3,MORTGAGE,55200,Not Verified,Current,10.15,1,5,10017.47,NOV,APR,APR,Vehicle Financing
+9000,9000,36 months,11.49,296.75,5,MORTGAGE,35000,Source Verified,Charged Off,6.93,0,29,7391.69,NOV,JAN,FEB,Debt Consolidation
+5000,5000,36 months,14.17,171.31,10,MORTGAGE,69000,Not Verified,Paid,9.34,4,3,6183.77,NOV,FEB,FEB,Home Improvement
+8000,8000,36 months,16.02,281.34,4,MORTGAGE,112000,Not Verified,Paid,0.48,2,15,8959.33,NOV,DEC,APR,Medical & Health
+10000,10000,36 months,16.07,351.94,4,MORTGAGE,150000,Verified,Policy Paid,11.02,0,33,12514.36,OCT,JAN,APR,Debt Consolidation
+10000,10000,36 months,13.72,340.42,10,RENT,96000,Verified,Policy CO,16.66,0,36,3104.87,OCT,NOV,DEC,Home Improvement
+14400,14400,60 months,18.79,371.89,10,RENT,60000,Verified,Paid,23.32,0,36,22277.11,NOV,APR,APR,Medical & Health
+18500,18500,36 months,11.11,606.64,10,MORTGAGE,77000,Verified,Paid,12.62,0,75,21458.41,NOV,FEB,FEB,Debt Consolidation
+3375,3375,36 months,14.83,116.72,10,MORTGAGE,45000,Verified,Paid,0,0,66,4202.25,OCT,FEB,MAR,Home Improvement
+7200,7200,36 months,18.53,262.21,1,MORTGAGE,83000,Verified,Paid,4.41,0,29,8451.09,SEP,DEC,APR,Home Improvement
+14500,14500,60 months,13.06,330.37,10,OWN,96000,Source Verified,Paid,15.69,1,21,19119.57,NOV,FEB,APR,Credit Card Refinancing
+15000,15000,60 months,18.79,387.38,2,MORTGAGE,98500,Verified,Paid,23.81,0,35,22860.91,NOV,APR,APR,Debt Consolidation
+3000,3000,36 months,13.99,102.52,10,MORTGAGE,45000,Not Verified,Charged Off,1.65,1,19,3383.16,NOV,FEB,APR,Debt Consolidation
+2700,2700,36 months,10.75,88.08,2,RENT,30000,Not Verified,Paid,4.72,0,39,2901.88,OCT,NOV,APR,Debt Consolidation
+6000,6000,36 months,9.32,191.69,0,MORTGAGE,65000,Verified,Paid,9.73,0,45,6601.09,SEP,NOV,NOV,Medical & Health
+1700,1700,36 months,10.75,55.46,4,MORTGAGE,90000,Not Verified,Paid,15.32,0,81,1950.47,OCT,DEC,DEC,Vehicle Financing
+6000,6000,36 months,7.66,187.08,0,RENT,40000,Source Verified,Paid,5.28,0,43,6735.11,NOV,FEB,APR,Debt Consolidation
+8000,8000,36 months,13.79,272.61,5,RENT,75000,Source Verified,Paid,12.78,0,42,9813.67,SEP,DEC,DEC,Credit Card Refinancing
+24250,24250,36 months,12.53,811.56,10,OWN,225000,Not Verified,Paid,12.7,0,25,28683.29,SEP,DEC,APR,Home Improvement
+6000,6000,36 months,10.99,196.42,10,MORTGAGE,75000,Not Verified,Paid,0.64,1,20,7071.07,OCT,JAN,JAN,Medical & Health
+9950,9950,36 months,12.8,334.3,0,RENT,27000,Not Verified,Policy Paid,1.42,0,0,2630.7,JUL,OCT,OCT,Medical & Health
+10000,10000,60 months,16.4,245.32,4,MORTGAGE,100008,Source Verified,Paid,14.13,0,36,14393.56,NOV,MAR,APR,Major Purchases
+9000,9000,60 months,13.43,206.77,9,RENT,51000,Not Verified,Paid,15.79,0,35,10040.46,NOV,DEC,MAR,Debt Consolidation
+5000,5000,36 months,17.49,179.49,2,MORTGAGE,78400,Source Verified,Paid,11.68,4,11,5538.2,NOV,DEC,APR,Medical & Health
+25000,25000,36 months,14.96,866.13,2,MORTGAGE,87000,Not Verified,Paid,24.19,0,38,31136.44,SEP,JAN,DEC,Debt Consolidation
+4800,4800,36 months,13.35,162.55,0,RENT,30000,Not Verified,Paid,23.2,0,42,5867.13,OCT,JAN,APR,Credit Card Refinancing
+5000,5000,36 months,10.65,162.87,3,MORTGAGE,48000,Not Verified,Paid,2.3,0,55,5586.97,NOV,FEB,FEB,Home Improvement
+12000,12000,60 months,13.49,276.06,10,MORTGAGE,110000,Not Verified,Current,11.67,0,78,16262.74,NOV,APR,APR,Major Purchases
+4500,4500,36 months,15.65,157.44,1,RENT,21600,Source Verified,Charged Off,10.83,0,56,3134.94,NOV,DEC,JAN,Moving & Relocation
+8400,8400,60 months,14.91,199.44,3,RENT,65000,Verified,Paid,9.51,1,19,10781.33,NOV,JAN,JAN,Debt Consolidation
+1500,1500,36 months,15.7,52.52,0,RENT,29120,Not Verified,Paid,19.82,1,20,1890.57,OCT,JAN,APR,Medical & Health
+10000,10000,36 months,7.66,311.8,10,OWN,64000,Verified,Paid,18.19,1,20,11047.41,NOV,JAN,APR,Debt Consolidation
+10000,10000,36 months,12.73,335.67,8,MORTGAGE,39996,Verified,Paid,9.57,1,21,12024.19,OCT,JAN,APR,Debt Consolidation
+5000,5000,36 months,17.56,179.67,5,MORTGAGE,130000,Not Verified,Paid,8.62,0,72,5540.42,OCT,NOV,NOV,Home Improvement
+4500,4500,36 months,14.72,155.38,0,RENT,26400,Source Verified,Policy Paid,18.91,2,6,5594.14,OCT,JAN,JAN,Moving & Relocation
+8575,8575,36 months,15.76,300.46,10,RENT,36000,Not Verified,Policy Paid,22.53,0,0,5991.59,AUG,NOV,NOV,Business & Entrepreneurship
+15000,15000,36 months,8.9,476.3,3,MORTGAGE,50000,Verified,Paid,19.1,0,30,17138.04,NOV,FEB,FEB,Debt Consolidation
+16750,16750,60 months,11.99,372.51,10,OWN,72000,Verified,Paid,15.85,0,34,20239.41,NOV,JAN,APR,Debt Consolidation
+7000,7000,36 months,13.49,237.52,10,MORTGAGE,38000,Source Verified,Paid,12.88,2,18,8496,NOV,FEB,FEB,Debt Consolidation
+1000,1000,36 months,9.62,32.09,3,RENT,42000,Not Verified,Paid,11.31,0,51,1155.24,OCT,JAN,MAR,Moving & Relocation
+3200,3200,36 months,14.59,110.29,2,RENT,90000,Verified,Paid,24.87,0,47,3970.56,OCT,JAN,APR,Medical & Health
+9000,9000,36 months,13.22,304.21,4,MORTGAGE,58000,Not Verified,Paid,16.9,0,64,10951.59,SEP,DEC,MAR,Debt Consolidation
+25000,25000,36 months,18.78,913.63,9,MORTGAGE,80000,Not Verified,Policy CO,11.64,0,54,17683.5,SEP,NOV,APR,Business & Entrepreneurship
+2000,2000,36 months,14.22,68.57,0,RENT,21000,Not Verified,Paid,7.83,0,25,2129.78,OCT,OCT,MAR,Medical & Health
+24000,24000,60 months,17.99,609.32,4,RENT,60000,Verified,Paid,15.32,0,34,34028.72,NOV,FEB,MAR,Debt Consolidation
+5000,5000,36 months,9.32,159.74,10,MORTGAGE,50004,Not Verified,Paid,1.39,0,45,5738.52,SEP,DEC,DEC,Home Improvement
+12000,12000,60 months,13.8,277.98,4,OWN,50000,Source Verified,Paid,8.59,0,38,14922.45,NOV,JAN,JAN,Debt Consolidation
+10000,10000,36 months,6.62,307.04,10,RENT,55000,Not Verified,Charged Off,11.65,1,1,4366.18,NOV,DEC,JAN,Medical & Health
+9200,9200,36 months,12.61,308.26,2,MORTGAGE,154000,Verified,Paid,15.42,0,73,10857.49,OCT,JAN,APR,Debt Consolidation
+5500,5500,36 months,7.51,171.11,6,MORTGAGE,56000,Source Verified,Paid,14.51,0,29,5568.14,OCT,OCT,OCT,Debt Consolidation
+25000,16575,36 months,12.73,556.33,10,MORTGAGE,119000,Verified,Paid,7.04,0,40,17892.32,OCT,JAN,JAN,Debt Consolidation
+14500,14500,36 months,11.97,481.4,6,RENT,130000,Not Verified,Policy Paid,10.85,0,0,8836.84,AUG,OCT,OCT,Credit Card Refinancing
+4500,4500,36 months,9.25,143.63,0,RENT,45000,Not Verified,Paid,6.53,0,47,4935.1,OCT,DEC,MAR,Debt Consolidation
+12000,12000,36 months,10.59,390.54,5,RENT,150000,Not Verified,Paid,9.92,0,35,13701.33,NOV,FEB,APR,Debt Consolidation
+12000,12000,36 months,15.45,418.64,0,MORTGAGE,52000,Not Verified,Policy CO,9.74,0,71,3043.61,AUG,SEP,APR,Home Improvement
+11700,11700,36 months,14.07,400.28,3,RENT,38256,Not Verified,Policy Paid,11.26,0,0,2353.26,JUL,AUG,JUL,Debt Consolidation
+6000,6000,36 months,10.74,195.7,10,MORTGAGE,50000,Not Verified,Paid,5.02,1,15,6986.25,NOV,FEB,FEB,Medical & Health
+5000,5000,36 months,8.7,158.31,10,RENT,48000,Not Verified,Paid,0.38,1,17,797.83,JUL,OCT,APR,Major Purchases
+6000,6000,36 months,8.9,190.52,2,OWN,45000,Not Verified,Paid,13.15,0,31,6797.12,NOV,FEB,APR,Home Improvement
+7500,7500,36 months,15.27,260.99,4,RENT,45000,Source Verified,Paid,6.51,0,35,9395.31,NOV,MAR,MAR,Credit Card Refinancing
+12000,12000,36 months,13.49,407.17,0,MORTGAGE,47000,Source Verified,Paid,12.87,0,60,14657.92,NOV,FEB,FEB,Debt Consolidation
+9600,9600,36 months,15.62,335.71,5,RENT,60000,Source Verified,Charged Off,6.76,1,9,2345,NOV,DEC,APR,Debt Consolidation
+10000,10000,60 months,14.17,233.57,4,MORTGAGE,79000,Verified,Paid,13.84,0,31,13949.65,NOV,MAR,MAR,Debt Consolidation
+2000,2000,36 months,14.22,68.57,4,RENT,30000,Verified,Paid,16.48,0,58,2468.54,OCT,JAN,FEB,Home Improvement
+7000,7000,36 months,11.49,230.8,2,RENT,66000,Source Verified,Paid,3.65,0,38,8249.71,OCT,JAN,APR,Debt Consolidation
+4000,4000,36 months,17.19,142.99,10,RENT,34000,Not Verified,Paid,11.51,0,30,5147.61,NOV,FEB,FEB,Debt Consolidation
+3300,3300,36 months,12.99,111.18,2,RENT,33000,Source Verified,Paid,20.69,0,59,4002.22,NOV,FEB,FEB,Medical & Health
+5600,5600,36 months,7.49,174.17,6,RENT,42000,Source Verified,Paid,22.57,1,3,6270.08,NOV,FEB,MAR,Debt Consolidation
+4200,4200,36 months,14.72,145.02,1,OWN,27996,Not Verified,Paid,9.52,1,10,4446,OCT,NOV,NOV,Debt Consolidation
+15000,15000,60 months,20.48,401.43,1,MORTGAGE,84996,Verified,Charged Off,1.23,2,13,7117.92,NOV,DEC,DEC,Debt Consolidation
+16000,16000,36 months,12.99,539.03,2,RENT,43000,Not Verified,Paid,14.82,2,4,1070.48,AUG,AUG,AUG,Debt Consolidation
+25000,25000,60 months,14.79,592,5,MORTGAGE,159996,Verified,Paid,12.77,0,67,35484.13,NOV,APR,APR,Debt Consolidation
+12800,12800,36 months,8.9,406.45,0,RENT,40000,Source Verified,Paid,12.51,1,10,14631.83,NOV,FEB,APR,Vehicle Financing
+15000,15000,36 months,15.05,520.37,1,RENT,42000,Not Verified,Paid,15.43,0,48,18733.24,SEP,DEC,DEC,Credit Card Refinancing
+35000,35000,36 months,8.9,1111.37,8,MORTGAGE,151000,Source Verified,Paid,5.75,0,24,39723.23,NOV,FEB,APR,Debt Consolidation
+16000,16000,36 months,13.11,539.92,10,MORTGAGE,43200,Not Verified,Charged Off,22.97,0,65,6468.09,OCT,NOV,APR,Debt Consolidation
+25000,16900,60 months,20.99,457.11,6,MORTGAGE,274992,Source Verified,Paid,8.33,0,59,23318.48,NOV,JAN,MAR,Debt Consolidation
+3550,3550,36 months,7.68,110.73,10,OWN,20245,Not Verified,Paid,8.83,0,44,3614.42,SEP,OCT,OCT,Debt Consolidation
+3600,3600,60 months,18.67,92.74,8,OWN,52800,Source Verified,Paid,10.59,1,21,5076.11,OCT,JAN,APR,Medical & Health
+15000,15000,60 months,20.11,398.33,2,RENT,36000,Source Verified,Charged Off,12.53,1,17,15481.45,NOV,FEB,FEB,Debt Consolidation
+10000,10000,36 months,12.99,336.9,10,MORTGAGE,85000,Verified,Paid,23.76,1,15,12128.02,NOV,FEB,APR,Business & Entrepreneurship
+35000,21675,60 months,19.91,573.18,7,MORTGAGE,165000,Verified,Charged Off,16.33,0,28,5150.52,NOV,DEC,APR,Medical & Health
+3200,3200,60 months,19.42,83.76,1,RENT,42100,Verified,Paid,3.62,0,58,4490.47,NOV,FEB,FEB,Debt Consolidation
+13500,13500,60 months,13.98,313.99,2,RENT,62000,Source Verified,Paid,6.87,0,62,18641.1,OCT,MAR,MAR,Medical & Health
+10000,10000,36 months,13.06,337.23,8,MORTGAGE,155000,Verified,Paid,11.02,0,67,11287.35,NOV,DEC,DEC,Debt Consolidation
+9200,9200,36 months,12.42,307.43,2,OWN,41100,Not Verified,Paid,10.92,0,31,10766.33,NOV,FEB,FEB,Debt Consolidation
+12000,12000,36 months,14.54,413.29,1,OWN,48000,Source Verified,Paid,7.3,2,7,12262.28,NOV,NOV,APR,Home Improvement
+35000,35000,60 months,21.67,960.11,4,MORTGAGE,165000,Verified,Paid,15.31,0,75,39916.05,NOV,JAN,APR,Debt Consolidation
+5000,5000,36 months,16.45,176.9,3,MORTGAGE,60000,Verified,Paid,22.92,0,49,6361.95,OCT,JAN,APR,Home Improvement
+9000,9000,36 months,15.96,316.25,0,MORTGAGE,20000,Not Verified,Policy Paid,15.66,0,0,1595.24,JUL,AUG,JAN,Debt Consolidation
+11200,11200,60 months,14.91,265.92,2,RENT,70000,Source Verified,Paid,10.51,0,73,15152.25,NOV,MAR,MAR,Debt Consolidation
+7500,7500,60 months,11.86,166.31,1,RENT,35004,Source Verified,Paid,10.32,4,7,9590.11,OCT,MAR,APR,Major Purchases
+24000,24000,60 months,18.62,617.57,3,MORTGAGE,120000,Source Verified,Paid,4.02,0,47,33479.97,NOV,JAN,APR,Home Improvement
+5000,5000,36 months,16.35,176.65,9,MORTGAGE,82640,Verified,Paid,14.33,0,27,6359.21,SEP,DEC,DEC,Credit Card Refinancing
+8000,8000,60 months,18.39,204.85,7,RENT,79010,Source Verified,Current,8.79,0,78,11879.8,NOV,APR,APR,Debt Consolidation
+12000,12000,60 months,19.42,314.07,6,RENT,103000,Verified,Current,10.57,4,9,17577.84,NOV,APR,APR,Debt Consolidation
+4200,4200,36 months,12.68,140.87,1,MORTGAGE,57000,Not Verified,Paid,14.78,2,19,5041.05,NOV,FEB,MAR,Major Purchases
+16000,16000,60 months,11.49,351.81,9,RENT,47000,Verified,Paid,8.5,1,19,20325.85,OCT,JAN,APR,Debt Consolidation
+2000,2000,36 months,7.66,62.36,2,RENT,44000,Source Verified,Paid,17.18,0,64,2012.8,NOV,NOV,NOV,Debt Consolidation
+10000,10000,36 months,10.59,325.45,3,OWN,72000,Not Verified,Paid,14.17,1,15,11095.38,NOV,DEC,MAR,Debt Consolidation
+10000,10000,60 months,12.99,227.48,5,RENT,59712,Not Verified,Charged Off,13.14,0,56,3644.56,NOV,DEC,JAN,Home Improvement
+30000,30000,60 months,20.89,809.75,4,RENT,68000,Source Verified,Paid,16.91,0,80,30522.93,NOV,DEC,NOV,Debt Consolidation
+2100,2100,36 months,8.38,66.18,1,OWN,19800,Not Verified,Paid,2.36,0,0,1219.5,AUG,NOV,APR,Medical & Health
+19125,19125,36 months,13.99,653.56,4,MORTGAGE,56000,Verified,Paid,14.68,0,44,22057.34,NOV,DEC,FEB,Debt Consolidation
+2000,2000,36 months,10.62,65.12,4,RENT,100000,Not Verified,Paid,0.95,0,41,2344.66,OCT,JAN,JAN,Vacation & Leisure
+2950,2950,36 months,16.49,104.43,2,RENT,19200,Not Verified,Paid,6.81,0,34,3535.12,NOV,DEC,DEC,Credit Card Refinancing
+3500,3500,36 months,12.21,116.61,9,RENT,51996,Verified,Charged Off,15.07,0,82,698.04,SEP,SEP,APR,Medical & Health
+5000,5000,36 months,13.99,170.87,1,RENT,50000,Not Verified,Charged Off,8.69,0,29,236.2,NOV,,NOV,Business & Entrepreneurship
+9925,9925,36 months,11.48,327.22,4,MORTGAGE,45000,Verified,Paid,12.67,1,11,11637.87,SEP,DEC,APR,Medical & Health
+5600,5600,36 months,11.99,185.98,10,RENT,69600,Not Verified,Paid,3.5,2,20,6316.98,NOV,JAN,APR,Credit Card Refinancing
+2400,2400,36 months,15.96,84.34,10,RENT,23000,Not Verified,Policy CO,15.86,0,0,218.08,JUL,AUG,SEP,Home Improvement
+8000,8000,36 months,13.72,272.34,0,RENT,28800,Source Verified,Paid,6.75,1,2,8816.23,OCT,NOV,NOV,Debt Consolidation
+16800,16800,60 months,15.95,408.1,5,RENT,74004,Verified,Charged Off,24.52,1,15,4470.36,OCT,NOV,NOV,Debt Consolidation
+6000,6000,60 months,14.83,142.21,10,RENT,55000,Not Verified,Paid,16.6,0,81,8532.14,OCT,MAR,MAR,Home Improvement
+15000,7000,36 months,11.72,231.57,2,RENT,200000,Not Verified,Paid,15.46,0,0,2193.16,AUG,NOV,APR,Medical & Health
+3000,3000,36 months,10.38,97.34,3,MORTGAGE,140000,Source Verified,Policy Paid,14.91,0,42,3492.06,OCT,JAN,JAN,Major Purchases
+8750,8750,36 months,9.63,280.83,5,RENT,65000,Not Verified,Paid,11.32,0,25,10109.48,NOV,FEB,APR,Debt Consolidation
+12000,12000,36 months,16.77,426.47,5,MORTGAGE,64000,Not Verified,Paid,18.32,0,25,15192.4,NOV,FEB,MAR,Debt Consolidation
+9600,9600,36 months,18.39,348.95,10,MORTGAGE,62000,Not Verified,Paid,14.69,0,77,12510.05,NOV,FEB,APR,Debt Consolidation
+6000,6000,60 months,16.45,147.35,8,RENT,39600,Not Verified,Paid,16.33,0,56,8668.88,OCT,FEB,FEB,Debt Consolidation
+12000,12000,60 months,18.64,308.92,1,RENT,45000,Not Verified,Paid,14.37,1,15,17879.44,NOV,MAR,MAR,Business & Entrepreneurship
+16000,16000,36 months,13.8,545.29,4,MORTGAGE,80000,Verified,Paid,5.47,0,46,16184.43,NOV,NOV,NOV,Home Improvement
+2075,2075,36 months,15.23,72.17,10,RENT,60000,Source Verified,Paid,10.76,3,12,2596.96,NOV,FEB,FEB,Medical & Health
+8500,8500,36 months,14.35,291.96,0,OWN,39000,Verified,Paid,22.74,1,9,10538.28,OCT,JAN,JAN,Debt Consolidation
+3200,3200,60 months,14.83,75.85,3,RENT,36000,Verified,Paid,15.57,0,28,4480.15,OCT,APR,APR,Debt Consolidation
+10000,10000,36 months,14.11,342.29,7,RENT,67000,Verified,Paid,6.86,0,73,12168.34,SEP,DEC,JAN,Debt Consolidation
+4000,4000,36 months,6.39,122.4,10,OWN,60000,Not Verified,Paid,4.26,0,45,3986.16,OCT,OCT,OCT,Major Purchases
+4800,4800,60 months,12.99,109.2,10,MORTGAGE,65000,Not Verified,Paid,3.67,0,73,6551.18,NOV,APR,APR,Home Improvement
+8000,8000,36 months,14.09,273.78,8,RENT,300000,Verified,Paid,7.68,2,21,8149.77,NOV,NOV,APR,Home Improvement
+5775,5775,36 months,5.42,174.18,0,MORTGAGE,35554,Verified,Charged Off,26.02,1,23,3309.03,NOV,JAN,APR,Debt Consolidation
+15000,15000,60 months,19.79,395.66,2,MORTGAGE,108000,Verified,Paid,16.27,0,46,21176.01,NOV,JAN,MAR,Debt Consolidation
+11600,11600,36 months,11.99,385.24,0,MORTGAGE,58000,Source Verified,Paid,8.3,0,83,13790.03,NOV,FEB,APR,Major Purchases
+3200,3200,36 months,14.84,110.68,4,RENT,20800,Source Verified,Paid,18.87,1,17,3976.13,OCT,JAN,MAR,Vehicle Financing
+7500,7500,36 months,13.49,254.48,4,RENT,46000,Not Verified,Paid,12.52,0,47,9011.31,NOV,JAN,JAN,Debt Consolidation
+3200,3200,36 months,12.21,106.61,7,OWN,20000,Verified,Paid,5.04,0,45,3687.93,SEP,DEC,APR,Debt Consolidation
+5000,5000,36 months,7.91,156.48,0,RENT,25200,Not Verified,Paid,8.38,0,35,5633.05,NOV,FEB,FEB,Major Purchases
+2400,2400,36 months,11.83,79.53,2,RENT,49800,Not Verified,Paid,6.94,0,57,2862.71,SEP,DEC,APR,Medical & Health
+3500,3500,60 months,12.69,79.09,9,RENT,68400,Not Verified,Paid,17.44,1,15,4734.78,NOV,APR,MAR,Medical & Health
+20000,20000,60 months,19.74,526.99,0,OWN,82500,Verified,Paid,12.09,2,3,31619.25,NOV,APR,APR,Debt Consolidation
+20000,20000,36 months,14.26,686.12,10,RENT,80004,Verified,Paid,21.19,1,20,19858.07,SEP,DEC,APR,Debt Consolidation
+4000,4000,36 months,10.39,129.81,0,MORTGAGE,53000,Not Verified,Paid,13.09,0,44,3287.98,AUG,SEP,DEC,Credit Card Refinancing
+7000,7000,36 months,11.99,232.47,10,MORTGAGE,130000,Verified,Paid,15.42,0,26,8368.78,NOV,FEB,APR,Medical & Health
+12000,12000,60 months,13.43,275.69,4,MORTGAGE,45996,Verified,Paid,22.36,0,36,16443.4,NOV,MAR,APR,Debt Consolidation
+20000,20000,36 months,13.47,678.46,0,RENT,51000,Verified,Paid,17.46,0,41,17671.17,SEP,DEC,DEC,Medical & Health
+9800,9800,36 months,7.51,304.89,10,RENT,50000,Not Verified,Charged Off,27.26,0,35,2741.22,NOV,DEC,APR,Medical & Health
+6000,6000,36 months,12.53,200.8,3,MORTGAGE,36000,Verified,Paid,19,1,11,7031.39,SEP,DEC,DEC,Credit Card Refinancing
+15000,15000,36 months,10.37,486.62,10,RENT,80000,Verified,Paid,16.61,0,55,17490.68,NOV,FEB,APR,Credit Card Refinancing
+3000,3000,36 months,13.06,101.17,4,RENT,18000,Source Verified,Charged Off,0,4,8,1351.68,NOV,DEC,MAR,Medical & Health
+4800,4800,36 months,11.36,157.98,8,MORTGAGE,70000,Source Verified,Paid,7.85,0,43,5304.89,OCT,NOV,NOV,Debt Consolidation
+5000,5000,36 months,8.59,158.06,0,MORTGAGE,90000,Not Verified,Charged Off,12.59,1,19,2988.57,SEP,NOV,APR,Major Purchases
+20000,20000,60 months,18.39,512.13,7,MORTGAGE,68000,Verified,Paid,22.27,1,18,29553.56,NOV,MAR,APR,Debt Consolidation
+12000,12000,60 months,13.49,276.06,10,RENT,54257,Verified,Current,17.43,1,18,15958.78,NOV,APR,APR,Moving & Relocation
+7000,7000,36 months,13.85,238.73,5,MORTGAGE,40800,Not Verified,Policy Paid,17.88,0,41,7211.33,OCT,OCT,APR,Debt Consolidation
+10000,10000,36 months,14.27,343.09,5,RENT,65000,Source Verified,Paid,15.58,1,12,11156.11,NOV,DEC,MAR,Debt Consolidation
+1500,1500,36 months,11.49,49.46,10,RENT,30000,Not Verified,Charged Off,1.32,1,18,1676.88,OCT,JAN,APR,Medical & Health
+10000,10000,36 months,13.22,338.01,1,RENT,60000,Verified,Paid,9.54,3,21,12168.51,SEP,DEC,APR,Education
+5000,5000,60 months,15.99,121.57,7,RENT,49000,Source Verified,Paid,18.49,0,39,5325.72,NOV,DEC,APR,Debt Consolidation
+8000,8000,36 months,8.49,252.51,2,RENT,20400,Source Verified,Paid,18.12,0,24,8487.93,NOV,DEC,APR,Credit Card Refinancing
+18000,18000,36 months,18.3,653.47,10,RENT,121000,Verified,Paid,15.73,0,69,23621.28,OCT,JAN,JAN,Debt Consolidation
+2050,2050,36 months,11.22,67.33,0,MORTGAGE,96000,Not Verified,Policy Paid,25,0,0,679.86,JUL,OCT,APR,Home Improvement
+2500,2500,36 months,9.64,80.26,0,MORTGAGE,75000,Not Verified,Charged Off,20,0,0,688.35,JUL,OCT,APR,Home Improvement
+12000,12000,36 months,16.89,427.18,9,MORTGAGE,56400,Source Verified,Paid,9.11,0,44,13519.12,NOV,DEC,MAR,Debt Consolidation
+2100,2100,36 months,13.06,70.82,4,MORTGAGE,72000,Not Verified,Paid,15.42,1,7,2522.75,NOV,JAN,APR,Vehicle Financing
+6000,6000,60 months,11.49,131.93,6,MORTGAGE,80000,Not Verified,Paid,12.9,0,81,6333.87,NOV,NOV,DEC,Credit Card Refinancing
+16000,16000,60 months,17.58,402.65,3,RENT,32000,Source Verified,Current,16.73,1,9,21709.68,NOV,APR,APR,Debt Consolidation
+10000,10000,36 months,14.96,346.45,4,RENT,45000,Not Verified,Policy Paid,17.79,0,66,12334.24,SEP,JAN,JAN,Debt Consolidation
+7500,7500,36 months,13.24,253.58,10,MORTGAGE,117000,Not Verified,Paid,5.78,2,6,358.1,AUG,OCT,DEC,Medical & Health
+2000,2000,36 months,10.99,65.47,5,RENT,40000,Not Verified,Paid,12.87,3,14,2356.24,NOV,FEB,FEB,Major Purchases
+16000,16000,36 months,11.99,531.36,10,MORTGAGE,69600,Verified,Paid,12.86,1,22,19098.75,NOV,FEB,MAR,Credit Card Refinancing
+8000,8000,36 months,15.28,278.43,6,RENT,42000,Source Verified,Charged Off,14.03,0,56,7387.81,NOV,JAN,JAN,Debt Consolidation
+2675,2675,36 months,8.07,83.92,10,RENT,40000,Not Verified,Paid,16.68,0,54,197.62,AUG,NOV,NOV,Credit Card Refinancing
+17000,17000,36 months,11.49,560.52,10,RENT,95000,Not Verified,Paid,15.74,1,17,19223.58,NOV,DEC,APR,Debt Consolidation
+2000,2000,36 months,11.49,65.95,8,OWN,55308,Source Verified,Charged Off,21.48,1,23,0,OCT,,APR,Home Improvement
+7000,7000,36 months,19.03,256.7,5,OWN,46800,Source Verified,Charged Off,13.36,0,30,6326.11,NOV,JAN,FEB,Moving & Relocation
+1800,1800,36 months,9.63,57.77,2,MORTGAGE,32496,Not Verified,Paid,23.08,2,12,2079.73,NOV,FEB,APR,Medical & Health
+4125,4125,36 months,14.54,142.07,5,RENT,22812.72,Source Verified,Paid,22.46,1,14,5044.96,NOV,JAN,JAN,Debt Consolidation
+12500,12500,36 months,11.49,412.15,2,MORTGAGE,60000,Not Verified,Paid,1.36,1,11,14837,NOV,FEB,FEB,Medical & Health
+7000,7000,36 months,14.74,241.76,0,MORTGAGE,35600,Not Verified,Policy Paid,19.38,0,61,5506.02,SEP,NOV,DEC,Debt Consolidation
+2800,2800,36 months,13.57,95.12,10,MORTGAGE,66120,Not Verified,Paid,11.16,0,34,3295.99,SEP,NOV,APR,Debt Consolidation
+8000,8000,36 months,17.74,288.17,0,RENT,40000,Not Verified,Paid,8.91,1,23,10399.93,SEP,DEC,DEC,Major Purchases
+18400,18400,60 months,16.4,451.38,9,RENT,38400,Verified,Paid,19.59,0,47,26014.37,NOV,FEB,APR,Debt Consolidation
+15000,15000,36 months,14.65,517.42,7,MORTGAGE,70000,Verified,Paid,9.98,1,2,18626.79,NOV,FEB,APR,Debt Consolidation
+5600,4400,36 months,15.07,152.68,5,RENT,60000,Not Verified,Policy Paid,9.94,2,6,610.65,AUG,NOV,MAR,Medical & Health
+2000,2000,36 months,6.91,61.68,10,RENT,35416.56,Not Verified,Paid,20.3,0,31,2142.41,NOV,DEC,APR,Home Improvement
+7800,7800,36 months,11.49,257.18,3,RENT,43000,Not Verified,Paid,14.09,0,52,8942.5,NOV,JAN,APR,Credit Card Refinancing
+4500,4500,36 months,12.68,150.94,8,MORTGAGE,31920,Source Verified,Paid,8.05,0,66,5433.41,NOV,FEB,MAR,Home Improvement
+3400,3400,36 months,15.62,118.9,0,RENT,35000,Source Verified,Paid,2.64,0,53,3864.09,NOV,DEC,APR,Debt Consolidation
+15000,15000,36 months,11.11,491.87,10,RENT,51000,Verified,Paid,8.33,0,78,17058.91,NOV,FEB,FEB,Medical & Health
+12000,12000,60 months,8.49,246.15,10,OWN,54000,Not Verified,Paid,12.58,0,45,14768.3,NOV,APR,APR,Major Purchases
+8800,8800,36 months,10.99,288.06,9,MORTGAGE,54000,Verified,Paid,19.15,0,66,10075.51,NOV,FEB,FEB,Credit Card Refinancing
+25000,25000,60 months,17.14,623.2,5,RENT,50000,Source Verified,Charged Off,13.56,1,19,16591.11,NOV,JAN,JAN,Debt Consolidation
+4000,4000,60 months,12.68,90.36,0,RENT,53040,Not Verified,Paid,9.64,1,1,5421.47,NOV,APR,APR,Vehicle Financing
+8000,8000,36 months,12.53,267.74,2,RENT,63000,Not Verified,Paid,1.81,0,52,9113.72,SEP,NOV,NOV,Medical & Health
+25000,25000,36 months,16.32,882.89,10,OWN,95000,Not Verified,Paid,21.66,0,46,29229.12,OCT,JAN,APR,Medical & Health
+5000,5000,36 months,10.65,162.87,0,OWN,27000,Verified,Charged Off,20.22,2,5,3335.8,NOV,JAN,JAN,Debt Consolidation
+3000,3000,36 months,18.39,109.05,10,RENT,44000,Not Verified,Paid,16.23,0,45,3920.66,NOV,FEB,APR,Debt Consolidation
+15000,15000,36 months,16,527.36,3,MORTGAGE,95004,Not Verified,Policy Paid,12.04,0,51,18363.76,SEP,DEC,DEC,Debt Consolidation
+10000,10000,36 months,17.93,361.18,0,RENT,100000,Not Verified,Charged Off,18.06,1,16,3607.7,OCT,NOV,APR,Medical & Health
+6000,6000,36 months,10.99,196.42,3,MORTGAGE,61500,Not Verified,Paid,18.71,0,46,6914.27,OCT,DEC,APR,Medical & Health
+22000,22000,60 months,17.27,549.96,0,MORTGAGE,114000,Verified,Paid,7.06,1,12,30482.37,NOV,FEB,MAR,Debt Consolidation
+7000,7000,36 months,13.23,236.64,10,MORTGAGE,55000,Verified,Paid,15.73,0,32,8397.79,OCT,JAN,MAR,Credit Card Refinancing
+2275,2275,36 months,13.06,76.72,3,MORTGAGE,16000,Not Verified,Paid,21.98,0,45,2782.59,NOV,FEB,APR,Debt Consolidation
+5700,5700,36 months,9.99,183.9,0,RENT,53000,Not Verified,Paid,10.01,0,57,6466.83,NOV,JAN,JAN,Business & Entrepreneurship
+10000,10000,36 months,13.48,339.25,6,RENT,40000,Not Verified,Paid,24.81,0,53,12172.43,OCT,JAN,JAN,Medical & Health
+19200,19200,36 months,13.87,655,10,RENT,79636,Not Verified,Paid,7.16,0,43,3068.77,AUG,NOV,APR,Debt Consolidation
+3000,3000,60 months,19.03,77.88,3,RENT,53004,Source Verified,Current,10.73,1,19,4211.68,NOV,APR,APR,Medical & Health
+1200,1200,36 months,13.49,40.72,4,MORTGAGE,60000,Not Verified,Paid,22.4,0,47,1213.78,NOV,DEC,MAR,Home Improvement
+12000,12000,36 months,13.48,407.09,3,MORTGAGE,116000,Not Verified,Paid,4.52,1,16,13933.65,OCT,DEC,APR,Home Improvement
+25000,15825,60 months,13.23,361.94,10,MORTGAGE,80000,Not Verified,Paid,20.11,0,81,20270.4,OCT,MAR,APR,Debt Consolidation
+3000,3000,36 months,15.28,104.41,10,RENT,21000,Source Verified,Paid,0.46,0,28,3759.43,NOV,FEB,FEB,Business & Entrepreneurship
+6000,6000,36 months,7.88,187.69,6,MORTGAGE,70000,Not Verified,Paid,0,0,64,6757.13,OCT,JAN,JAN,Medical & Health
+5250,5250,36 months,7.51,163.34,3,MORTGAGE,36000,Verified,Paid,9.7,0,58,5675.2,NOV,JAN,FEB,Home Improvement
+24000,24000,36 months,13.92,819.29,1,RENT,80000,Not Verified,Paid,9.67,0,32,27683.74,SEP,NOV,NOV,Medical & Health
+25000,25000,36 months,20.11,930.5,6,MORTGAGE,130000,Verified,Paid,19.08,0,43,33466.27,NOV,FEB,FEB,Business & Entrepreneurship
+25000,25000,36 months,14.61,861.88,3,MORTGAGE,112000,Verified,Paid,16.66,0,30,30144.61,SEP,DEC,FEB,Home Improvement
+2300,2300,36 months,11.12,75.43,1,MORTGAGE,56496,Source Verified,Policy Paid,6.29,0,34,2568.3,OCT,DEC,APR,Medical & Health
+20000,20000,60 months,10.99,434.75,10,MORTGAGE,76445,Verified,Paid,12.46,0,60,25758.84,NOV,APR,APR,Debt Consolidation
+6000,6000,36 months,12.92,201.94,1,MORTGAGE,40800,Not Verified,Paid,15.32,2,23,5320.36,AUG,SEP,SEP,Debt Consolidation
+5000,5000,36 months,10.59,162.73,10,RENT,38400,Not Verified,Paid,10.84,0,62,5565.15,NOV,FEB,FEB,Vacation & Leisure
+7750,7750,36 months,9.99,250.04,9,RENT,112000,Source Verified,Charged Off,15.34,0,45,831.53,NOV,NOV,APR,Debt Consolidation
+8000,8000,36 months,12.53,267.73,10,MORTGAGE,50000,Verified,Policy Paid,21.29,1,7,7215.78,SEP,SEP,SEP,Major Purchases
+12000,12000,36 months,10.25,388.62,3,RENT,69805,Not Verified,Paid,17.21,0,49,12266.87,OCT,NOV,APR,Debt Consolidation
+8000,8000,36 months,13.35,270.91,0,MORTGAGE,130000,Source Verified,Paid,18.65,0,80,9708.77,OCT,JAN,APR,Credit Card Refinancing
+12000,12000,60 months,18.64,308.92,8,MORTGAGE,135000,Not Verified,Charged Off,10.31,1,14,9258.08,NOV,FEB,APR,Home Improvement
+12000,12000,36 months,11.83,397.61,3,OWN,97000,Not Verified,Paid,2.09,0,51,13989.24,SEP,DEC,FEB,Debt Consolidation
+4000,4000,36 months,11.22,131.38,0,RENT,14400,Not Verified,Policy Paid,1.67,0,0,1982.65,JUL,OCT,OCT,Vehicle Financing
+30000,30000,60 months,16.77,741.88,10,MORTGAGE,145000,Verified,Paid,11.24,1,14,42231.94,NOV,APR,APR,Debt Consolidation
+5000,5000,36 months,13.04,168.57,4,MORTGAGE,29496,Verified,Policy CO,20.38,0,28,744.04,AUG,SEP,APR,Debt Consolidation
+3500,3500,36 months,9.25,111.71,10,MORTGAGE,90000,Not Verified,Paid,9.13,0,59,4021.7,OCT,JAN,JAN,Vehicle Financing
+8000,8000,60 months,13.98,186.07,10,MORTGAGE,72000,Source Verified,Paid,17.61,1,20,11142.04,OCT,MAR,APR,Business & Entrepreneurship
+1200,1200,36 months,15.99,42.19,3,RENT,57000,Verified,Paid,12.57,1,17,1518.5,NOV,FEB,APR,Medical & Health
+8750,8750,36 months,12.84,294.16,3,MORTGAGE,105000,Source Verified,Policy Paid,18.01,0,31,8785.54,SEP,NOV,NOV,Credit Card Refinancing
+3000,3000,36 months,14.35,103.05,10,MORTGAGE,67675,Source Verified,Paid,13.65,1,17,3725.24,OCT,JAN,JAN,Medical & Health
+10000,10000,36 months,15.27,347.98,5,RENT,50000,Not Verified,Charged Off,7.99,1,19,6404.43,NOV,JAN,JAN,Medical & Health
+4750,4750,36 months,15.27,165.29,7,MORTGAGE,55500,Not Verified,Charged Off,17.04,0,53,2335.95,NOV,DEC,JAN,Debt Consolidation
+14000,14000,36 months,9.99,451.68,0,MORTGAGE,110000,Verified,Paid,5.93,0,34,16202.19,NOV,FEB,APR,Credit Card Refinancing
+11400,11400,36 months,11.89,378.07,2,RENT,65000,Source Verified,Paid,16.52,1,22,9208.81,SEP,DEC,MAR,Medical & Health
+8000,8000,36 months,9.99,258.1,4,MORTGAGE,100000,Not Verified,Paid,13.22,0,48,9205.7,NOV,FEB,FEB,Moving & Relocation
+6000,6000,36 months,8.49,189.38,7,MORTGAGE,100000,Not Verified,Paid,9.61,0,34,6599.16,NOV,JAN,APR,Credit Card Refinancing
+25000,25000,36 months,10.25,809.62,10,MORTGAGE,176000,Verified,Paid,2.05,0,59,28067.78,OCT,DEC,DEC,Home Improvement
+25000,18325,60 months,18.79,473.25,3,MORTGAGE,85000,Verified,Paid,12.56,0,39,22059.32,NOV,DEC,MAR,Business & Entrepreneurship
+20000,20000,60 months,16.77,494.59,4,MORTGAGE,79000,Verified,Current,9.6,0,40,26851.87,NOV,APR,APR,Debt Consolidation
+24000,16450,60 months,18.07,418.35,10,RENT,72000,Verified,Charged Off,21.08,1,9,2499.48,NOV,NOV,APR,Debt Consolidation
+1200,1200,36 months,10.38,38.94,4,RENT,16800,Verified,Paid,9.43,0,30,1235.28,OCT,NOV,MAR,Home Improvement
+5400,5400,36 months,12.42,180.45,6,MORTGAGE,40000,Verified,Paid,22.92,0,38,6495.88,NOV,FEB,FEB,Debt Consolidation
+2000,2000,36 months,8.7,63.32,0,RENT,70000,Not Verified,Paid,6.07,0,24,541.36,JUL,OCT,OCT,Credit Card Refinancing
+8000,8000,36 months,18.39,290.79,4,RENT,84000,Verified,Charged Off,10.16,0,45,3822.6,NOV,DEC,DEC,Debt Consolidation
+5525,5525,36 months,12.68,185.31,10,RENT,56004,Not Verified,Paid,7.46,0,50,6671.6,NOV,FEB,FEB,Medical & Health
+3600,3600,36 months,14.72,124.31,0,RENT,42000,Source Verified,Paid,11.97,2,2,4475.12,OCT,JAN,APR,Credit Card Refinancing
+7200,7200,36 months,10,232.33,10,RENT,66560,Verified,Paid,7.99,0,46,7707.39,NOV,DEC,APR,Home Improvement
+3600,3600,60 months,18.39,92.19,10,MORTGAGE,125004,Not Verified,Paid,12.84,0,36,4498.84,NOV,DEC,APR,Medical & Health
+9100,9100,36 months,13.24,307.67,2,RENT,49200,Not Verified,Paid,7.37,2,7,6088.8,AUG,OCT,OCT,Credit Card Refinancing
+4375,4375,36 months,15.01,151.69,0,RENT,65000,Not Verified,Policy CO,5.48,0,45,31.12,JUL,AUG,JUL,Education
+9600,9600,36 months,9.99,309.72,4,RENT,54696,Verified,Paid,17.11,0,75,10570.53,OCT,JAN,APR,Debt Consolidation
+5600,5600,36 months,7.9,175.23,3,RENT,70000,Not Verified,Paid,5.23,1,11,6006.53,NOV,JAN,MAR,Credit Card Refinancing
+20000,20000,36 months,13.85,682.1,10,RENT,78500,Verified,Paid,12.15,0,43,24357.77,OCT,JAN,APR,Debt Consolidation
+14000,8850,60 months,12.61,199.61,8,RENT,91000,Source Verified,Paid,13.81,0,41,11771.74,OCT,MAR,APR,Debt Consolidation
+10000,10000,36 months,12.73,335.67,1,MORTGAGE,41000,Not Verified,Paid,22.21,0,63,11929.56,OCT,DEC,DEC,Debt Consolidation
+25000,25000,36 months,13.75,851.41,5,RENT,75000,Not Verified,Charged Off,19.78,0,0,781.02,AUG,AUG,APR,Home Improvement
+3000,3000,36 months,17.9,108.3,8,MORTGAGE,145000,Verified,Paid,19.97,1,21,3906.47,SEP,DEC,DEC,Education
+5000,5000,36 months,7.51,155.56,10,MORTGAGE,65000,Source Verified,Paid,5.65,0,45,5599.98,NOV,FEB,APR,Debt Consolidation
+7200,7200,60 months,13.49,165.64,3,RENT,127500,Not Verified,Paid,12.36,0,41,8036.27,NOV,DEC,APR,Medical & Health
+15000,15000,36 months,12.18,499.5,10,RENT,110000,Verified,Paid,5.78,0,54,17772.13,SEP,DEC,DEC,Debt Consolidation
+13000,13000,36 months,15.99,456.98,3,RENT,120000,Not Verified,Charged Off,24.8,0,47,6894.04,NOV,DEC,JAN,Debt Consolidation
+7200,7200,60 months,17.27,179.99,5,RENT,103000,Source Verified,Current,10.53,0,44,9695.8,NOV,APR,APR,Debt Consolidation
+14000,14000,36 months,17.58,503.19,4,MORTGAGE,100000,Verified,Paid,14.75,2,8,18114.79,NOV,FEB,FEB,Credit Card Refinancing
+25000,25000,36 months,10.36,810.92,7,MORTGAGE,267000,Source Verified,Paid,4.49,1,8,26409.91,OCT,JAN,APR,Debt Consolidation
+7300,7300,36 months,7.49,227.05,8,MORTGAGE,63000,Source Verified,Paid,7.33,0,40,8173.47,NOV,FEB,FEB,Debt Consolidation
+5000,5000,36 months,15.62,174.85,4,MORTGAGE,54000,Source Verified,Paid,6.98,1,20,5973.43,NOV,FEB,APR,Major Purchases
+3200,3200,36 months,14.35,109.92,2,RENT,44000,Source Verified,Policy Paid,20.7,0,40,3707.4,OCT,DEC,DEC,Credit Card Refinancing
+20000,20000,36 months,7.51,622.22,0,MORTGAGE,200000,Verified,Paid,13.5,1,23,22371.77,NOV,FEB,APR,Business & Entrepreneurship
+4700,4700,60 months,20.25,125.18,4,RENT,43215.54,Verified,Paid,3.25,0,42,6962.48,NOV,FEB,APR,Home Improvement
+25000,25000,36 months,17.04,891.86,4,RENT,55000,Not Verified,Charged Off,9.36,0,47,14602.51,OCT,NOV,APR,Business & Entrepreneurship
+22000,22000,60 months,17.51,552.81,4,RENT,91000,Verified,Charged Off,10.63,1,15,21910.6,NOV,FEB,FEB,Debt Consolidation
+20000,20000,60 months,19.91,528.88,6,RENT,136500,Verified,Paid,24.23,1,23,31394.02,NOV,APR,APR,Home Improvement
+21000,21000,60 months,16.89,520.67,1,RENT,89916,Source Verified,Charged Off,20.47,1,6,7050.31,NOV,DEC,JAN,Medical & Health
+9600,9600,36 months,15.13,333.4,2,RENT,70000,Not Verified,Policy CO,16.35,0,0,4192.42,AUG,SEP,APR,Medical & Health
+4800,4800,36 months,18.21,174.05,2,RENT,39960,Verified,Policy CO,13.27,0,31,2429.14,SEP,OCT,APR,Medical & Health
+15000,15000,36 months,16,527.36,0,RENT,64245,Not Verified,Policy Paid,12.89,0,30,17594.27,SEP,NOV,NOV,Education
+7000,7000,36 months,8.88,222.21,2,MORTGAGE,40000,Source Verified,Paid,12.21,0,69,7399.92,NOV,FEB,FEB,Credit Card Refinancing
+12000,12000,36 months,12.53,401.6,2,MORTGAGE,141000,Verified,Paid,5.59,0,38,14457.44,SEP,DEC,DEC,Credit Card Refinancing
+5500,5500,36 months,10.38,178.46,3,RENT,45000,Source Verified,Paid,5.65,0,29,6424.6,OCT,JAN,JAN,Moving & Relocation
+8575,8575,36 months,14.38,294.66,2,MORTGAGE,55000,Not Verified,Policy Paid,12.87,0,29,1758.64,JUL,OCT,APR,Home Improvement
+7500,7500,36 months,11.49,247.29,1,RENT,68000,Not Verified,Paid,6.07,1,17,8854.03,OCT,JAN,JAN,Debt Consolidation
+5000,5000,36 months,16.49,177,1,RENT,35000,Not Verified,Paid,2.23,0,42,6336.53,NOV,FEB,APR,Business & Entrepreneurship
+1950,1950,36 months,12.69,65.42,0,OWN,12000,Source Verified,Paid,20.3,0,43,2354.79,NOV,FEB,FEB,Medical & Health
+20000,20000,60 months,17.27,499.96,10,MORTGAGE,93000,Source Verified,Paid,12.76,1,14,28954,NOV,MAR,MAR,Home Improvement
+15250,15250,36 months,12.53,510.37,1,MORTGAGE,33600,Not Verified,Paid,19.21,1,18,17386.68,OCT,DEC,DEC,Debt Consolidation
+8000,8000,36 months,12.53,267.74,0,MORTGAGE,52000,Verified,Charged Off,7.04,0,51,4552.31,OCT,NOV,APR,Credit Card Refinancing
+5100,5100,36 months,8.38,160.72,4,RENT,32000,Not Verified,Paid,14.78,0,0,651.56,JUL,OCT,JUL,Vacation & Leisure
+3000,3000,36 months,9.91,96.68,6,OWN,40000,Source Verified,Paid,8.19,0,63,3190.24,NOV,FEB,FEB,Home Improvement
+17500,17500,60 months,15.21,418.26,4,MORTGAGE,102000,Verified,Paid,19.24,0,29,22710.68,OCT,JAN,MAR,Medical & Health
+10000,10000,36 months,14.59,344.65,9,RENT,33000,Not Verified,Paid,12.81,0,38,12408.08,OCT,JAN,JAN,Debt Consolidation
+7500,7500,36 months,11.97,249,10,MORTGAGE,91000,Not Verified,Paid,7.89,1,14,0,AUG,OCT,OCT,Debt Consolidation
+750,750,36 months,12.29,25.02,0,RENT,19000,Not Verified,Paid,24,0,0,870.48,AUG,NOV,MAR,Credit Card Refinancing
+12000,12000,60 months,19.69,315.87,4,RENT,40512,Source Verified,Charged Off,16.23,0,76,5683.81,NOV,JAN,APR,Debt Consolidation
+10000,10000,36 months,15.27,347.98,4,RENT,42000,Not Verified,Paid,18.6,0,61,12527.15,NOV,MAR,MAR,Home Improvement
+12000,12000,36 months,12.18,399.6,6,OWN,101000,Not Verified,Paid,12.93,0,24,14222.4,OCT,JAN,APR,Debt Consolidation
+2300,2300,36 months,8.59,72.71,1,RENT,39000,Not Verified,Paid,0.98,0,28,2617.33,SEP,DEC,APR,Credit Card Refinancing
+2500,2500,36 months,7.37,77.62,7,RENT,112995,Not Verified,Paid,0.39,0,36,2794.07,SEP,DEC,DEC,Medical & Health
+5000,5000,36 months,11.58,165.07,2,RENT,85000,Not Verified,Paid,18.48,1,23,5896.15,SEP,DEC,APR,Debt Consolidation
+10000,10000,36 months,9.63,320.94,10,MORTGAGE,156000,Source Verified,Paid,24.82,1,7,11406.16,NOV,JAN,JAN,Vehicle Financing
+10000,10000,36 months,12.21,333.15,1,MORTGAGE,45000,Source Verified,Paid,0,1,11,9694.82,SEP,DEC,FEB,Vehicle Financing
+9000,9000,36 months,7.88,281.53,0,RENT,55000,Verified,Paid,19.68,1,17,9741.44,OCT,JAN,APR,Debt Consolidation
+6000,6000,36 months,7.29,186.06,9,MORTGAGE,70200,Not Verified,Paid,1.5,0,38,6464.01,NOV,FEB,APR,Home Improvement
+6000,6000,60 months,17.14,149.57,2,RENT,36000,Source Verified,Paid,17.07,0,34,8405.38,NOV,FEB,MAR,Vehicle Financing
+10000,10000,60 months,9.62,210.61,0,OWN,63000,Verified,Charged Off,7.94,3,10,9048.7,NOV,FEB,APR,Home Improvement
+6500,6500,36 months,12.68,218.02,9,MORTGAGE,55200,Not Verified,Charged Off,20.39,2,17,1737.44,NOV,DEC,APR,Business & Entrepreneurship
+8000,8000,36 months,6.62,245.63,0,MORTGAGE,61200,Source Verified,Paid,15.73,0,70,8787.38,NOV,FEB,FEB,Medical & Health
+10000,10000,36 months,14.79,345.63,1,MORTGAGE,100000,Source Verified,Paid,6.12,0,38,10804.01,NOV,DEC,FEB,Medical & Health
+12000,12000,36 months,7.88,375.37,10,MORTGAGE,100000,Not Verified,Paid,11.83,0,29,13429.79,OCT,JAN,APR,Debt Consolidation
+3000,3000,36 months,13.85,102.32,10,MORTGAGE,63755,Not Verified,Paid,9.35,1,15,3683.46,OCT,JAN,APR,Medical & Health
+10000,10000,60 months,13.49,230.05,8,RENT,30000,Not Verified,Paid,17.8,0,79,13802.17,NOV,APR,APR,Medical & Health
+8000,8000,36 months,16.28,282.37,0,RENT,26400,Not Verified,Policy CO,25,0,0,1906.83,JUL,OCT,APR,Debt Consolidation
+8000,8000,36 months,15.68,280.02,3,MORTGAGE,55074,Not Verified,Paid,22.18,0,35,4714.84,SEP,DEC,APR,Debt Consolidation
+6000,6000,36 months,9.99,193.58,9,MORTGAGE,100000,Not Verified,Paid,12.68,0,56,6698.83,NOV,JAN,JAN,Vehicle Financing
+5000,5000,36 months,10.74,163.08,10,RENT,55000,Verified,Charged Off,18.57,0,79,3697.67,NOV,JAN,JAN,Debt Consolidation
+14000,14000,36 months,12.61,469.09,9,RENT,68000,Verified,Paid,6.72,3,9,15495.52,OCT,DEC,MAR,Debt Consolidation
+14000,14000,36 months,7.51,435.56,10,MORTGAGE,114000,Verified,Paid,6.18,0,73,15568.19,OCT,JAN,JAN,Medical & Health
+5825,5825,36 months,9.99,187.93,5,RENT,30000,Verified,Paid,21.56,0,79,6563.71,NOV,JAN,FEB,Credit Card Refinancing
+5500,5500,36 months,15.21,191.23,0,RENT,30000,Not Verified,Charged Off,7.8,0,76,4567.67,OCT,DEC,APR,Home Improvement
+24000,24000,60 months,12.68,542.16,10,MORTGAGE,163500,Verified,Paid,1.39,1,6,28881.52,NOV,JAN,JAN,Home Improvement
+22125,22125,60 months,13.49,508.98,1,MORTGAGE,50000,Verified,Charged Off,27.43,1,21,4034.96,NOV,DEC,APR,Debt Consolidation
+21250,21250,36 months,12.42,710.08,5,RENT,37000,Verified,Charged Off,14.27,0,68,8880.05,NOV,DEC,APR,Medical & Health
+6050,6050,36 months,12.99,203.82,10,MORTGAGE,45000,Not Verified,Policy CO,22.77,0,0,2523.07,AUG,OCT,APR,Debt Consolidation
+10000,10000,36 months,7.75,312.22,5,NONE,22200,Not Verified,Paid,5.24,0,0,1380,AUG,NOV,NOV,Debt Consolidation
+3000,3000,36 months,10.59,97.64,10,MORTGAGE,67000,Verified,Paid,19.18,1,22,3480.88,NOV,FEB,FEB,Vacation & Leisure
+3600,3600,36 months,11.86,119.34,3,OWN,39000,Source Verified,Paid,10.28,2,10,4296.33,OCT,JAN,APR,Major Purchases
+5000,5000,36 months,15.21,173.85,0,RENT,40800,Not Verified,Paid,17.44,0,52,6226.55,OCT,JAN,JAN,Debt Consolidation
+2600,2600,36 months,10.71,84.77,6,RENT,18720,Not Verified,Policy Paid,0.64,0,0,2963.52,AUG,NOV,NOV,Major Purchases
+10000,10000,36 months,14.54,344.41,10,RENT,54996,Verified,Paid,15.86,0,32,12367.53,NOV,FEB,FEB,Medical & Health
+24250,24250,36 months,16.7,860.91,10,RENT,126000,Verified,Paid,17.14,0,36,28871.66,SEP,NOV,FEB,Debt Consolidation
+20000,20000,60 months,12.69,451.9,2,RENT,80000,Source Verified,Paid,5.23,0,37,26552.87,NOV,MAR,MAR,Business & Entrepreneurship
+5000,5000,36 months,10,161.34,3,OWN,36000,Source Verified,Charged Off,17.93,0,66,4037.9,NOV,JAN,FEB,Debt Consolidation
+7200,7200,36 months,9.91,232.02,10,MORTGAGE,170000,Not Verified,Paid,5.6,0,60,8347.02,NOV,FEB,FEB,Credit Card Refinancing
+5000,5000,36 months,7.43,155.38,0,MORTGAGE,200000,Not Verified,Paid,3.72,0,0,672.66,JUL,AUG,JUL,Medical & Health
+5000,5000,60 months,13.99,116.32,10,RENT,60000,Not Verified,Paid,15.78,0,28,6978.8,NOV,APR,APR,Vacation & Leisure
+13500,13500,60 months,18.64,347.53,0,RENT,48000,Verified,Paid,10.85,0,46,15812.23,NOV,DEC,FEB,Debt Consolidation
+20000,20000,36 months,6.54,613.35,0,MORTGAGE,109000,Verified,Paid,8.19,0,30,21961.33,NOV,JAN,MAR,Home Improvement
+6000,6000,60 months,19.03,155.75,2,RENT,38400,Verified,Current,20.47,0,46,8537.09,NOV,APR,APR,Medical & Health
+8500,8500,36 months,13.47,288.35,2,MORTGAGE,125000,Verified,Paid,14.86,0,49,3809.08,SEP,OCT,MAR,Credit Card Refinancing
+11000,11000,36 months,14.61,379.23,5,RENT,69000,Verified,Paid,12.7,0,41,13259.2,SEP,DEC,MAR,Debt Consolidation
+10000,10000,60 months,11.86,221.74,2,RENT,32000,Verified,Paid,10.73,0,63,13038.13,OCT,MAR,MAR,Debt Consolidation
+2000,2000,36 months,11.49,65.95,5,RENT,45000,Source Verified,Paid,1.25,0,49,2374,OCT,JAN,JAN,Debt Consolidation
+10000,10000,36 months,14.27,343.09,5,RENT,80000,Verified,Paid,21.54,0,47,12351.2,NOV,FEB,APR,Home Improvement
+5000,5000,60 months,15.65,120.67,10,MORTGAGE,58800,Not Verified,Paid,9.39,2,8,7095.24,NOV,MAR,APR,Vehicle Financing
+8000,8000,60 months,14.79,189.44,3,RENT,47900,Source Verified,Paid,10.87,0,78,9273.35,NOV,DEC,DEC,Debt Consolidation
+4000,4000,36 months,13.22,135.21,0,RENT,17500,Not Verified,Paid,14.13,0,34,4836.8,SEP,DEC,JAN,Debt Consolidation
+4275,4275,36 months,10.28,138.51,0,OWN,31000,Not Verified,Paid,24.81,0,0,538.2,JUL,AUG,JUL,Medical & Health
+4800,4800,60 months,22.11,132.88,3,RENT,65000,Source Verified,Charged Off,12.42,0,71,5392.28,NOV,FEB,MAR,Business & Entrepreneurship
+2500,2500,36 months,13.98,85.42,4,RENT,54000,Not Verified,Paid,22.64,0,36,2612.74,OCT,OCT,OCT,Vacation & Leisure
+4500,4500,36 months,11.83,149.11,10,MORTGAGE,56000,Verified,Paid,15.39,0,52,4827.77,SEP,OCT,OCT,Credit Card Refinancing
+10000,10000,36 months,12.53,334.67,2,MORTGAGE,65000,Not Verified,Paid,3.54,0,72,12018.01,OCT,JAN,JAN,Debt Consolidation
+6000,6000,36 months,11.71,198.46,10,MORTGAGE,90000,Source Verified,Paid,13.21,1,16,7091.72,NOV,FEB,APR,Debt Consolidation
+18250,18250,36 months,17.04,651.06,1,RENT,40500,Not Verified,Paid,14.96,1,15,22769.38,SEP,DEC,DEC,Debt Consolidation
+1500,1500,36 months,10.36,48.66,10,RENT,27000,Source Verified,Paid,5.38,0,53,1739.1,OCT,JAN,JAN,Medical & Health
+3000,3000,36 months,12.53,100.4,0,RENT,60000,Not Verified,Paid,12.98,0,33,3554.11,SEP,DEC,DEC,Medical & Health
+35000,23725,60 months,20.62,636.78,10,MORTGAGE,220000,Verified,Paid,17.41,1,18,24070.61,NOV,NOV,APR,Debt Consolidation
+9600,9600,36 months,7.49,298.58,0,RENT,21600,Not Verified,Paid,17.78,0,34,10643.25,NOV,JAN,JAN,Moving & Relocation
+5000,5000,60 months,10.37,107.15,10,MORTGAGE,100000,Source Verified,Paid,1.72,1,4,5102.35,NOV,NOV,NOV,Vehicle Financing
+6250,6250,36 months,15.99,219.71,3,RENT,27000,Not Verified,Paid,19.42,0,53,7909.13,NOV,FEB,MAR,Debt Consolidation
+20000,20000,36 months,14.22,685.69,4,MORTGAGE,62000,Not Verified,Paid,11.52,0,50,24258.04,OCT,DEC,APR,Medical & Health
+6000,6000,60 months,16.45,147.35,4,RENT,33600,Source Verified,Paid,1.13,1,6,8534.65,OCT,FEB,FEB,Vehicle Financing
+4000,4000,60 months,15.95,97.17,1,RENT,72000,Source Verified,Paid,22.6,1,21,5483.54,OCT,JAN,JAN,Vehicle Financing
+19500,19500,60 months,18.25,497.83,4,RENT,52470,Verified,Current,17.56,0,69,26850.06,NOV,APR,APR,Debt Consolidation
+15000,15000,36 months,15.28,522.04,10,OWN,120000,Verified,Paid,1.69,1,20,15739.38,NOV,NOV,NOV,Home Improvement
+6300,6300,36 months,12.29,210.13,0,MORTGAGE,44004,Not Verified,Paid,0.95,1,14,0,AUG,AUG,AUG,Medical & Health
+8000,8000,36 months,14.79,276.51,2,RENT,66000,Not Verified,Paid,14.65,1,22,9884.69,NOV,FEB,FEB,Business & Entrepreneurship
+8000,8000,36 months,13.93,273.15,7,RENT,27000,Not Verified,Policy Paid,11.02,2,22,2690.97,AUG,NOV,APR,Debt Consolidation
+15000,15000,36 months,13.49,508.96,10,MORTGAGE,72000,Not Verified,Paid,17.87,1,4,18322.42,NOV,FEB,APR,Debt Consolidation
+5000,5000,36 months,13.49,169.66,10,RENT,68004,Not Verified,Paid,5.15,1,10,6107.42,NOV,FEB,FEB,Medical & Health
+3000,3000,36 months,13.35,101.59,6,MORTGAGE,23000,Verified,Paid,19.83,0,74,3661.58,OCT,FEB,MAR,Debt Consolidation
+20000,20000,36 months,16.95,712.54,3,MORTGAGE,115000,Verified,Paid,15.74,1,19,25528.34,SEP,NOV,APR,Debt Consolidation
+9600,9600,36 months,14.79,331.81,3,MORTGAGE,67775,Not Verified,Paid,18.73,0,53,11940.71,NOV,FEB,APR,Credit Card Refinancing
+14000,14000,60 months,15.27,335.05,10,MORTGAGE,57500,Source Verified,Paid,10.56,0,39,18254.72,NOV,FEB,FEB,Debt Consolidation
+5900,5900,60 months,20.9,159.29,3,RENT,58100,Not Verified,Policy CO,18.82,0,35,2587.64,OCT,DEC,DEC,Medical & Health
+25000,25000,60 months,17.51,628.2,10,MORTGAGE,104004,Verified,Paid,21.63,1,13,30744.23,NOV,DEC,DEC,Major Purchases
+3500,3500,36 months,15.21,121.69,10,RENT,68160,Not Verified,Policy CO,16.36,1,19,120.7,OCT,OCT,APR,Major Purchases
+15000,15000,36 months,11.89,497.46,10,MORTGAGE,150000,Source Verified,Paid,6.78,0,39,10487.85,SEP,NOV,NOV,Credit Card Refinancing
+20000,20000,60 months,20.85,539.39,10,MORTGAGE,120000,Verified,Paid,14.44,1,4,28256.61,NOV,JAN,JAN,Home Improvement
+15000,15000,36 months,6.99,463.09,0,MORTGAGE,50000,Source Verified,Paid,19.3,0,83,16671.16,NOV,FEB,APR,Debt Consolidation
+5000,5000,36 months,15.58,174.76,0,MORTGAGE,86760,Verified,Paid,2.99,0,60,6380.75,OCT,JAN,JAN,Major Purchases
+8000,8000,36 months,17.27,286.3,6,RENT,32000,Not Verified,Paid,21.26,0,51,10306.71,NOV,FEB,MAR,Debt Consolidation
+10200,10200,60 months,15.7,246.43,4,RENT,55000,Not Verified,Paid,16.21,3,18,14781.84,OCT,MAR,APR,Debt Consolidation
+7000,7000,36 months,12.73,234.97,3,MORTGAGE,36000,Not Verified,Paid,19.43,1,18,8301.66,OCT,DEC,DEC,Debt Consolidation
+4800,4800,36 months,14.79,165.91,4,RENT,61000,Not Verified,Paid,6.96,0,79,5837.49,NOV,JAN,APR,Moving & Relocation
+9000,9000,60 months,16.49,221.22,1,RENT,27000,Not Verified,Paid,17.38,0,38,12930.25,NOV,MAR,MAR,Debt Consolidation
+7000,7000,36 months,10.99,229.14,0,RENT,35000,Verified,Paid,13.23,1,22,8119.88,NOV,FEB,APR,Debt Consolidation
+20000,12600,60 months,15.95,306.08,10,RENT,109620,Verified,Paid,13.65,0,81,14562.64,OCT,NOV,DEC,Major Purchases
+2500,2500,36 months,11.71,82.69,7,MORTGAGE,29000,Verified,Paid,18.7,0,63,2896.89,NOV,JAN,APR,Debt Consolidation
+11200,11200,36 months,13.79,381.65,10,MORTGAGE,72800,Source Verified,Paid,18.82,1,10,9296.67,SEP,DEC,DEC,Debt Consolidation
+8000,8000,36 months,9.63,256.76,4,RENT,40000,Verified,Paid,16.29,0,66,8979.77,NOV,DEC,APR,Debt Consolidation
+2000,2000,36 months,11.36,65.83,0,RENT,24432,Not Verified,Paid,6.97,0,25,2369.83,OCT,JAN,JAN,Debt Consolidation
+2000,2000,36 months,13.49,67.87,6,RENT,25209.6,Source Verified,Paid,3.47,0,49,2372.84,NOV,JAN,JAN,Debt Consolidation
+15250,15250,60 months,19.42,399.13,4,RENT,52500,Verified,Charged Off,23.82,4,5,3991.21,NOV,DEC,DEC,Business & Entrepreneurship
+8000,8000,36 months,14.88,276.86,10,OWN,34000,Not Verified,Policy Paid,16.91,0,40,3101.22,AUG,NOV,DEC,Debt Consolidation
+24000,24000,36 months,12.73,805.59,10,MORTGAGE,86500,Not Verified,Paid,15.27,0,31,27262.05,OCT,NOV,APR,Debt Consolidation
+15000,15000,36 months,14.72,517.93,10,MORTGAGE,54000,Not Verified,Paid,24.29,0,76,18584.08,OCT,JAN,APR,Debt Consolidation
+5000,5000,36 months,15.65,174.94,3,RENT,24996,Not Verified,Charged Off,18.39,1,21,2923.26,SEP,NOV,APR,Debt Consolidation
+5500,5500,36 months,11.89,182.41,1,RENT,43000,Not Verified,Paid,17.94,1,21,6550,SEP,DEC,APR,Credit Card Refinancing
+35000,35000,60 months,18.79,903.88,10,OWN,130000,Verified,Paid,3.25,1,19,16863.14,NOV,JAN,MAR,Debt Consolidation
+8950,8950,36 months,16.91,318.69,3,MORTGAGE,70000,Not Verified,Policy CO,1.35,0,0,229.81,JUL,AUG,SEP,Debt Consolidation
+5000,5000,36 months,10.36,162.19,10,MORTGAGE,98000,Source Verified,Charged Off,22.22,0,48,4776.84,OCT,JAN,MAR,Vacation & Leisure
+14000,14000,60 months,10.75,302.66,10,OWN,66000,Verified,Charged Off,14,0,81,8597.63,OCT,JAN,APR,Debt Consolidation
+2800,2800,36 months,14.17,95.93,10,MORTGAGE,41496,Not Verified,Charged Off,0,0,33,3423.18,NOV,FEB,FEB,Debt Consolidation
+10800,10800,36 months,14.65,372.54,0,RENT,115000,Not Verified,Paid,7.89,2,8,13411.31,NOV,FEB,MAR,Debt Consolidation
+12000,7275,36 months,6.91,224.34,4,RENT,62496,Source Verified,Paid,13.38,1,22,8076.04,OCT,JAN,JAN,Debt Consolidation
+1550,1550,36 months,15.21,53.9,4,RENT,34480,Not Verified,Paid,10.34,0,26,1940.15,OCT,JAN,APR,Debt Consolidation
+6250,6250,36 months,10.38,202.79,2,OWN,20004,Verified,Paid,19.68,0,74,7300.96,OCT,JAN,FEB,Debt Consolidation
+21000,21000,36 months,11.99,697.41,8,MORTGAGE,175000,Source Verified,Paid,10.99,3,8,25025.99,NOV,FEB,APR,Major Purchases
+,,60 months,100.99,,10,MORTGAGE,,Verified,Current,100,,0,,JUL,,,Credit Card Refinancing
+8500,8500,36 months,14.79,293.79,10,MORTGAGE,59826,Verified,Charged Off,24.47,0,74,6693.15,NOV,JAN,JAN,Debt Consolidation
+2000,2000,36 months,7.88,62.57,1,RENT,33000,Not Verified,Paid,16.15,0,79,2252.67,OCT,JAN,MAR,Moving & Relocation
+4750,4750,60 months,13.61,109.57,2,RENT,24288,Source Verified,Charged Off,24.7,0,42,2172.25,OCT,NOV,DEC,Debt Consolidation
+24000,24000,36 months,13.85,818.5,10,MORTGAGE,86400,Not Verified,Paid,14.01,0,32,27929.17,OCT,NOV,APR,Credit Card Refinancing
+15000,15000,36 months,14.22,514.27,8,RENT,102000,Verified,Paid,9.64,1,14,18514.51,OCT,JAN,MAR,Debt Consolidation
+5000,5000,36 months,5.42,150.8,8,RENT,27000,Source Verified,Paid,17.33,0,49,5411.47,NOV,FEB,FEB,Medical & Health
+3000,3000,36 months,14.35,103.05,2,MORTGAGE,31000,Not Verified,Policy CO,5.26,0,80,2636.38,OCT,DEC,JAN,Home Improvement
+10000,10000,36 months,13.49,339.31,10,MORTGAGE,75000,Not Verified,Paid,4.85,0,63,12222.38,NOV,FEB,MAR,Debt Consolidation
+8000,8000,36 months,10.59,260.36,3,MORTGAGE,102500,Not Verified,Paid,13.08,0,69,8922.6,NOV,JAN,MAR,Debt Consolidation
+6000,6000,60 months,14.79,142.08,8,MORTGAGE,38480,Not Verified,Paid,23.64,0,30,8463.7,NOV,MAR,APR,Home Improvement
+7000,4450,36 months,6.54,136.47,10,RENT,78000,Source Verified,Paid,11.58,0,82,4825.65,OCT,JAN,APR,Debt Consolidation
+15000,15000,60 months,15.99,364.7,7,RENT,60000,Source Verified,Paid,24.6,0,81,16938.2,NOV,DEC,DEC,Debt Consolidation
+14000,14000,60 months,15.99,340.38,4,MORTGAGE,150060,Not Verified,Paid,12.32,0,70,17787.19,NOV,JAN,JAN,Debt Consolidation
+5000,5000,36 months,6.99,154.37,10,MORTGAGE,45000,Verified,Paid,23.41,0,61,5499.19,NOV,JAN,JAN,Major Purchases
+4000,4000,36 months,10.51,130.03,0,RENT,130068,Not Verified,Charged Off,5.07,0,71,194.55,AUG,SEP,APR,Medical & Health
+24000,14525,60 months,16.32,355.7,6,MORTGAGE,90000,Verified,Paid,7.99,1,20,21170.04,OCT,MAR,MAR,Debt Consolidation
+7500,7500,36 months,12.61,251.3,4,RENT,54200,Source Verified,Paid,15.99,0,36,9046.89,OCT,FEB,FEB,Vacation & Leisure
+16800,16800,36 months,16.77,597.05,6,RENT,75000,Verified,Charged Off,7.34,1,19,7092.85,NOV,DEC,MAR,Debt Consolidation
+12000,12000,36 months,10.99,392.81,4,RENT,120000,Source Verified,Paid,9.72,0,37,14141.07,NOV,FEB,APR,Debt Consolidation
+23000,23000,60 months,13.98,534.94,3,MORTGAGE,80000,Verified,Paid,21.58,0,57,24668.15,OCT,NOV,FEB,Home Improvement
+7200,7200,36 months,12.18,239.76,1,RENT,111000,Not Verified,Paid,22.39,0,24,8631.32,SEP,DEC,APR,Medical & Health
+9600,9600,60 months,12.98,218.34,10,MORTGAGE,75000,Verified,Paid,23.14,0,43,11793.11,OCT,JAN,FEB,Debt Consolidation
+21250,17050,60 months,20.99,461.17,1,MORTGAGE,72000,Verified,Paid,21.63,0,28,22836.89,NOV,JAN,APR,Debt Consolidation
+5000,5000,36 months,17.27,178.94,6,RENT,60000,Not Verified,Paid,17.58,0,30,6154.64,NOV,FEB,MAR,Debt Consolidation
+18500,18500,36 months,10.71,603.13,4,RENT,34300,Not Verified,Paid,13.33,0,45,8033.43,AUG,NOV,NOV,Debt Consolidation
+10000,10000,36 months,13.11,337.45,5,RENT,40000,Verified,Charged Off,17.07,0,30,1007.58,OCT,OCT,APR,Business & Entrepreneurship
+9000,9000,36 months,6.91,277.53,7,RENT,36000,Verified,Charged Off,2.37,1,12,2489.94,OCT,NOV,APR,Home Improvement
+10800,10800,36 months,6.92,333.08,10,MORTGAGE,300000,Source Verified,Paid,1.63,0,40,11797.17,NOV,JAN,JAN,Home Improvement
+7500,7500,60 months,14.91,178.08,10,MORTGAGE,48000,Source Verified,Paid,5.45,1,20,9834.78,NOV,JAN,APR,Debt Consolidation
+5000,5000,36 months,15.23,173.9,5,MORTGAGE,48996,Not Verified,Paid,14.23,0,60,6259.96,NOV,FEB,FEB,Debt Consolidation
+5500,5500,36 months,13.04,185.43,1,RENT,22000,Not Verified,Paid,5.02,0,39,2301.56,AUG,NOV,MAR,Medical & Health
+13000,13000,36 months,9.99,419.42,2,MORTGAGE,120000,Not Verified,Paid,8.31,0,40,13852.24,OCT,NOV,APR,Credit Card Refinancing
+9600,9600,60 months,15.28,229.8,5,MORTGAGE,135000,Source Verified,Paid,6.98,1,5,11763.57,NOV,DEC,DEC,Debt Consolidation
+4000,4000,60 months,12.23,89.45,10,MORTGAGE,50000,Not Verified,Policy CO,12.74,0,33,2325.51,OCT,JAN,APR,Home Improvement
+30000,30000,36 months,18.64,1094.23,10,MORTGAGE,166000,Verified,Paid,18.09,1,8,39392.18,NOV,FEB,APR,Debt Consolidation
+22000,22000,36 months,9.76,707.41,0,RENT,80000,Not Verified,Paid,9.81,0,69,9965.76,AUG,SEP,NOV,Debt Consolidation
+5000,5000,60 months,15.95,121.46,8,MORTGAGE,38000,Not Verified,Policy Paid,16.74,1,18,7208.08,OCT,MAR,APR,Debt Consolidation
+12500,12500,36 months,14.96,433.08,9,MORTGAGE,62400,Source Verified,Paid,14.88,0,29,15544.66,OCT,JAN,MAR,Moving & Relocation
+6000,6000,36 months,15.23,208.67,1,OWN,55000,Source Verified,Paid,19.57,1,12,6741.53,NOV,DEC,MAR,Credit Card Refinancing
+6725,6725,36 months,16.45,237.92,4,RENT,50760,Verified,Paid,5.86,1,21,8475.06,OCT,JAN,JAN,Home Improvement
+17600,17600,36 months,13.57,597.85,0,MORTGAGE,121000,Not Verified,Paid,23.83,0,48,20522.77,SEP,NOV,APR,Debt Consolidation
+6000,6000,36 months,13.23,202.83,0,RENT,45000,Not Verified,Paid,20.78,0,30,7302.62,OCT,JAN,JAN,Medical & Health
+3000,3000,36 months,10.65,97.72,0,RENT,30000,Not Verified,Paid,17.96,0,52,3347.37,NOV,JAN,JAN,Major Purchases
+25000,25000,36 months,9.96,806.22,2,MORTGAGE,86000,Not Verified,Policy Paid,0,1,5,0,JUL,AUG,NOV,Business & Entrepreneurship
+6000,6000,36 months,15.31,208.9,8,RENT,33996,Not Verified,Paid,7.31,0,55,7520.39,SEP,DEC,FEB,Moving & Relocation
+9000,9000,36 months,18.67,328.41,6,RENT,47004,Not Verified,Policy Paid,24.66,0,61,11854.26,OCT,JAN,APR,Debt Consolidation
+25000,25000,60 months,17.88,633.21,10,MORTGAGE,200000,Source Verified,Paid,12.53,0,63,30242.8,NOV,FEB,FEB,Business & Entrepreneurship
+8800,8800,36 months,9.33,281.2,0,OWN,25000,Not Verified,Paid,0,1,4,754.71,JUL,OCT,OCT,Debt Consolidation
+15000,15000,36 months,13.47,508.84,1,OWN,42000,Verified,Paid,14.34,0,69,11248.01,SEP,DEC,APR,Home Improvement
+12000,12000,36 months,13.49,407.17,7,MORTGAGE,75000,Not Verified,Paid,16.29,0,24,14534.51,NOV,FEB,APR,Debt Consolidation
+5275,5275,36 months,14.72,182.14,4,RENT,15600,Not Verified,Charged Off,1.82,0,58,5005.41,OCT,DEC,JAN,Medical & Health
+1000,1000,36 months,11.83,33.14,2,MORTGAGE,51000,Not Verified,Paid,16.8,0,40,1191.82,SEP,DEC,APR,Medical & Health
+12000,12000,36 months,13.16,405.25,3,RENT,55000,Not Verified,Paid,13.16,0,34,12229.28,SEP,OCT,OCT,Major Purchases
