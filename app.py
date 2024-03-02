@@ -1,13 +1,14 @@
 from flask import Flask, jsonify, render_template
 import pandas as pd
+import os
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import numpy as np
 
 app = Flask(__name__)
 
-# Load and preprocess your CSV data
-df = pd.read_csv('Updated_Selected_Loan_Data.csv').select_dtypes(include=[np.number]).dropna()
+df = pd.read_csv("Updated_Selected_Loan_Data.csv").select_dtypes(include=[np.number]).dropna()
+
 
 @app.route('/')
 def index():
@@ -15,7 +16,6 @@ def index():
 
 @app.route('/api/pca')
 def pca_data():
-    print("PCA called")
     # Standardize the data
     scaler = StandardScaler()
     X_std = scaler.fit_transform(df)
