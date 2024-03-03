@@ -24,3 +24,34 @@ body, html {
     stroke: red;
     stroke-width: 2;
 }
+
+svg {
+    font-family: 'Arial', sans-serif;
+}
+
+.axis text {
+    font-size: 12px;
+    color: #333;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #ccc;
+    shape-rendering: crispEdges;
+}
+
+.bar:hover {
+    fill: orange;
+}
+
+.dot {
+    stroke: #fff;
+}
+
+text {
+    font-size: 12px;
+}
+
+/* Customize further based on your needs */
+
