@@ -51,8 +51,18 @@ def pca_data():
             'inertia': kmeans.inertia_,
             'labels': kmeans.labels_.tolist()
         }
+        
+    differences = np.diff(inertias)  # Calculate differences between successive inertia values
+    # Optionally, calculate second differences if needed for a clearer elbow point detection
+
+    # Identify the elbow point; this example uses a simple approach
+    # You might need to refine this to more accurately find the elbow point
+    elbow_point_k = np.argmin(differences) + 1  # Adding 1 because index starts at 0
+
+    # Update initial_k based on elbow point
+    initial_k = elbow_point
     
-    initial_k = 5
+    # initial_k = 4
     
     # Convert kmeans_results to ensure all values are JSON serializable
     kmeans_results_json = {}

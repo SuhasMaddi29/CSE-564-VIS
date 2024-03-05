@@ -8,10 +8,10 @@ body, html {
     gap: 20px;
 }
 
-#screePlot, #biPlot {
+#screePlot, #biPlot, #scatterplotMatrix, #kmeansPlot {
     width: 600px;
-    height: 400px;
-    border: 1px solid #ccc;
+    height: 600px;
+    border: 3px solid #ccc;
 }
 
 .dot {
@@ -52,6 +52,37 @@ svg {
 text {
     font-size: 12px;
 }
+
+.plot-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+}
+  
+/* .plot {
+width: 100%;
+height: auto;
+} */
+
+
+.plot {
+    width: 100%; /* Fixed width for each plot */
+    height: auto; /* Fixed height for each plot */
+    margin: 10px; /* Spacing between plots */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+  
+@media (max-width: 768px) {
+    .plot-container {
+        grid-template-columns: 1fr;
+    }
+}
+  
+  
 
 /* Customize further based on your needs */
 

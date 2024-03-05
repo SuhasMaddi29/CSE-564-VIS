@@ -1,7 +1,12 @@
+var dimension=1;
+var k =1;
+
 document.addEventListener("DOMContentLoaded", function() {
    fetch('/api/pca')
    .then(response => response.json())
    .then((pcaData) => {
+      dimension = pcaData.elbow_point;
+      k = pcaData.initial_k;
       renderScreePlot(pcaData.eigenvalues, pcaData.elbow_point);
       const loadings = pcaData.loadings;
       const scores = pcaData.scores;
@@ -10,7 +15,6 @@ document.addEventListener("DOMContentLoaded", function() {
       renderScatterMatrix(topAttributes, scoresWithClusterId, pcaData.attributeNames, pcaData.kmeans_results[pcaData.initial_k].labels);
       renderKMeansPlot(pcaData.kmeans_results, pcaData.initial_k);
       renderBiPlot(scoresWithClusterId, pcaData.loadings, pcaData.kmeans_results[pcaData.initial_k].labels);
-      //renderBiPlot(pcaData.scores, pcaData.loadings,pcaData.kmeans_results);
   }).catch(error => console.error("Error fetching data:", error));
 });
 
@@ -19,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
    .then(response => response.json())
    .then((pcaData) => {
        const updatePlots = (di) => {
+            dimension = di;
            updateScatterMatrix(di);
            renderScreePlot(pcaData.eigenvalues, di, updatePlots); // Pass self as callback
        };
@@ -32,8 +37,11 @@ document.addEventListener("DOMContentLoaded", function() {
    .then(response => response.json())
    .then((pcaData) => {
        const updatePlotsForKMeans = (selectedK) => {
+            k = selectedK;
+           const topAttributes = getTopAttributes(pcaData.loadings, dimension, pcaData.attributeNames);
            const scoresWithClusterId = pcaData.scores.map((score, index) => [...score, pcaData.kmeans_results[selectedK].labels[index]]);
            renderBiPlot(scoresWithClusterId, pcaData.loadings, pcaData.kmeans_results[selectedK].labels);
+           renderScatterMatrix(topAttributes, scoresWithClusterId, pcaData.attributeNames, pcaData.kmeans_results[selectedK].labels)
            renderKMeansPlot(pcaData.kmeans_results, selectedK, updatePlotsForKMeans); // Pass self as callback
        };
        updatePlotsForKMeans(pcaData.initial_k); // Initial call with the initial k
@@ -43,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 const margin = {top: 30, right: 40, bottom: 30, left: 60},
 width = 600 - margin.left - margin.right,
-height = 400 - margin.top - margin.bottom;
+height = 600 - margin.top - margin.bottom;
 
 const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
 
@@ -53,12 +61,13 @@ function updateScatterMatrix(di) {
    fetch('/api/pca')
        .then(response => response.json())
        .then(data => {
+         dimension = di;
            // Assuming 'data.loadings' contains the PCA loadings
            const loadings = data.loadings;
            const scores = data.scores;
            const topAttributes = getTopAttributes(loadings, di, data.attributeNames);
-           const scoresWithClusterId = data.scores.map((score, index) => [...score, data.kmeans_results[data.initial_k].labels[index]]);
-           renderScatterMatrix(topAttributes, scoresWithClusterId, data.attributeNames, data.kmeans_results[data.initial_k].labels);
+           const scoresWithClusterId = data.scores.map((score, index) => [...score, data.kmeans_results[k].labels[index]]);
+           renderScatterMatrix(topAttributes, scoresWithClusterId, data.attributeNames, data.kmeans_results[k].labels);
        })
        .catch(error => console.error("Error fetching PCA loadings:", error));
 }
@@ -110,11 +119,12 @@ function renderScreePlot(eigenvalues, selectedDimensionality, updateCallback) {
       .data(eigenvalues)
       .enter()
       .append("rect")
+      .attr("class", "bar")
       .attr("x", (d, i) => x(i + 1))
       .attr("y", d => y(d))
       .attr("width", x.bandwidth())
       .attr("height", d => height - y(d))
-      .attr("fill", (d, i) => i === selectedDimensionality - 1 ? "orange" : "steelblue")
+      .attr("fill", (d, i) => i === selectedDimensionality - 1 ? "red" : "steelblue")
       .on("click", (event, d) => {
           const di = eigenvalues.indexOf(d) + 1; // Get the dimensionality index
           updateCallback(di); // Call the update function with the new index
@@ -198,7 +208,7 @@ function renderScatterMatrix(topAttributes, scores, attributeNames, clusterLabel
    d3.select("#scatterplotMatrix").selectAll("*").remove();
 
    const indicesTopAttributes = topAttributes.map(attr => attributeNames.indexOf(attr));
-   const size = 160; // Size of each scatter plot
+   const size = 142.5; // Size of each scatter plot
    const padding = 30; // Padding around scatter plots
 
    const svg = d3.select("#scatterplotMatrix")
@@ -262,7 +272,7 @@ function renderScatterMatrix(topAttributes, scores, attributeNames, clusterLabel
          .enter()
          .append("g")
          .attr("class", "x-axis")
-         .attr("transform", (d, i) =>`translate(${padding + i * size}, ${10+4*size})`)
+         .attr("transform", (d, i) =>`translate(${padding + i * size}, ${5+4*size})`)
          .call(d3.axisBottom(xScales[index]).ticks(5));
       }
 
@@ -273,7 +283,7 @@ function renderScatterMatrix(topAttributes, scores, attributeNames, clusterLabel
               .enter()
               .append("g")
               .attr("class", "y-axis")
-              .attr("transform", (d, i) => `translate(${padding}, ${padding + i * size})`)
+              .attr("transform", (d, i) => `translate(${15+padding}, ${padding + i * size})`)
               .call(d3.axisLeft(yScales[index]).ticks(5));
       }
   });
@@ -283,7 +293,7 @@ function renderScatterMatrix(topAttributes, scores, attributeNames, clusterLabel
 
 
 
-function renderKMeansPlot(kmeansResults, selectedK, updateBiPlotCallback) {
+function renderKMeansPlot(kmeansResults, selectedK, updateBiPlotCallback, updateScatterMatrixCallback) {
    d3.select("#kmeansPlot").selectAll("*").remove(); // Clear the existing plot
 
    const svg = d3.select("#kmeansPlot")
