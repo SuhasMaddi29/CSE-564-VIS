@@ -4,6 +4,7 @@ import os
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+from scipy.signal import find_peaks
 import numpy as np
 
 app = Flask(__name__)
@@ -52,15 +53,19 @@ def pca_data():
             'labels': kmeans.labels_.tolist()
         }
         
-    differences = np.diff(inertias)  # Calculate differences between successive inertia values
-    # Optionally, calculate second differences if needed for a clearer elbow point detection
+    # Calculate the second derivative
+    second_derivative = np.diff(inertias, n=2)
 
-    # Identify the elbow point; this example uses a simple approach
-    # You might need to refine this to more accurately find the elbow point
-    elbow_point_k = np.argmin(differences) + 1  # Adding 1 because index starts at 0
+    # Find peaks in the second derivative
+    peaks, _ = find_peaks(second_derivative)
 
-    # Update initial_k based on elbow point
-    initial_k = elbow_point
+    # The elbow point is likely to be at the first peak
+    if peaks.size > 0:
+        elbow_point_k = peaks[0] + 1  # plus one due to the zero-indexing
+    else:
+        elbow_point_k = 1  # default to 1 if no peaks are found
+
+    initial_k = int(elbow_point_k)
     
     # initial_k = 4
     
