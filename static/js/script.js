@@ -1,6 +1,9 @@
 var dimension=1;
 var k =1;
 
+const table = d3.select("#attributesTableContainer").append("table").attr("id", "topAttributesTable");
+
+
 document.addEventListener("DOMContentLoaded", function() {
    fetch('/api/pca')
    .then(response => response.json())
@@ -15,6 +18,8 @@ document.addEventListener("DOMContentLoaded", function() {
       renderScatterMatrix(topAttributes, scoresWithClusterId, pcaData.attributeNames, pcaData.kmeans_results[pcaData.initial_k].labels);
       renderKMeansPlot(pcaData.kmeans_results, pcaData.initial_k);
       renderBiPlot(scoresWithClusterId, pcaData.loadings, pcaData.attributeNames, pcaData.kmeans_results[pcaData.initial_k].labels);
+      const topAttributesIndices = getTopAttributes(pcaData.loadings, dimension, pcaData.attributeNames);
+      renderTopAttributesTable(pcaData.loadings, pcaData.attributeNames, topAttributesIndices);
   }).catch(error => console.error("Error fetching data:", error));
 });
 
@@ -68,6 +73,9 @@ function updateScatterMatrix(di) {
            const topAttributes = getTopAttributes(loadings, di, data.attributeNames);
            const scoresWithClusterId = data.scores.map((score, index) => [...score, data.kmeans_results[k].labels[index]]);
            renderScatterMatrix(topAttributes, scoresWithClusterId, data.attributeNames, data.kmeans_results[k].labels);
+           d3.select("#topAttributesTable").remove();
+           const topAttributesIndices = getTopAttributes(data.loadings, dimension, data.attributeNames);
+           renderTopAttributesTable(data.loadings, data.attributeNames, topAttributesIndices);
        })
        .catch(error => console.error("Error fetching PCA loadings:", error));
 }
@@ -217,9 +225,57 @@ function renderScreePlot(eigenvalues, selectedDimensionality, updateCallback) {
    .attr("text-anchor", "middle")
    .text("Eigenvalue");
 
-   
 }
 
+function renderTopAttributesTable(loadings, attributeNames, topAttributes) {
+   // Remove existing table if it exists
+   d3.select("#topAttributesTable").remove();
+
+   // Append a new table
+   const table = d3.select("#attributesTableContainer").append("table").attr("id", "topAttributesTable");
+   const thead = table.append("thead");
+   const tbody = table.append("tbody");
+
+   // Header row with attribute name, PCs, and sum of squared loadings
+   thead.append("tr").selectAll("th")
+       .data(["Attribute", "PC1", "PC2", "PC3", "PC4", "Sum of Squared Loadings"])
+       .enter()
+       .append("th")
+       .text(d => d);
+
+   // Filter loadings to include only top attributes
+   const filteredLoadings = topAttributes.map(attr => {
+       const index = attributeNames.indexOf(attr);
+       return loadings[index];
+   });
+
+   // Rows for each top attribute
+   const rows = tbody.selectAll("tr")
+       .data(filteredLoadings)
+       .enter()
+       .append("tr");
+
+   // Attribute name cell
+   rows.append("td")
+       .text((_, i) => topAttributes[i]);
+
+   // Cells for loading scores
+   for (let pc = 0; pc < 4; pc++) {
+       rows.append("td")
+           .text(d => d && d[pc] !== undefined ? d[pc].toFixed(3) : "N/A");
+   }
+
+   // Cell for sum of squared loadings
+   // Cell for sum of squared loadings, considering only the first 4 PCs
+   rows.append("td")
+   .text(d => {
+      // Adjust this slice to match the number of PCs you're interested in
+      const relevantLoadings = d.slice(0, dimension); // Considering only the first 4 PCs
+      const sumOfSquares = relevantLoadings.reduce((sum, current) => sum + current * current, 0);
+      return sumOfSquares.toFixed(3);
+   });
+
+}
 
 
 function renderBiPlot(scores, loadings, attributeNames, clusterLabels) {

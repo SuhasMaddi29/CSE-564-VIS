@@ -14,6 +14,37 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed; 
 }
+
+/* Styling for tables */
+#topAttributesTable {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #f9f9f9; /* Light grey background */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Slight shadow for depth */
+    margin-top: 20px;
+}
+
+#topAttributesTable thead th {
+    background-color: #2366aa; /* Green header for contrast */
+    color: white;
+    text-align: left;
+    padding: 12px 15px;
+    border-bottom: 2px solid #ddd;
+}
+
+#topAttributesTable tbody td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #ddd; /* Slight border for each cell for readability */
+}
+
+#topAttributesTable tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Zebra striping for rows */
+}
+
+#topAttributesTable tbody tr:hover {
+    background-color: #ddd; /* Hover effect for rows */
+}
+
   
 
 #screePlot, #biPlot, #scatterplotMatrix, #kmeansPlot {
@@ -67,11 +98,6 @@ text {
     grid-gap: 20px;
     padding: 20px;
 }
-  
-/* .plot {
-width: 100%;
-height: auto;
-} */
 
 
 .plot {
@@ -85,12 +111,23 @@ height: auto;
   
   
 @media (max-width: 768px) {
+    #dashboard-container {
+        margin: 10px;
+    }
+
     .plot-container {
         grid-template-columns: 1fr;
     }
-}
-  
-  
 
-/* Customize further based on your needs */
+    #topAttributesTable thead th,
+    #topAttributesTable tbody td {
+        padding: 8px 10px;
+    }
+}
+
+#dashboard-container {
+    margin: 20px;
+}
+
+
 
